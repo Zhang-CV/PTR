@@ -10,6 +10,9 @@ tqdm
 TensorboardX  
 
 ## Training
+Unzip the ./data/train_data.rar
+Unzip the ./data/eval_data.rar
+Unzip the ./data/test_data.rar
 python main.py
 
 ## Testing
