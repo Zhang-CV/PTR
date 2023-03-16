@@ -1,0 +1,2620 @@
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, eval=False, ff_dims=256, heads=4, icp=False, iteration=1, lr=0.0001, model_path='./checkpoints/dcp/models/model.best.t7', n=1, num_points_src=1024, num_points_target=512)
+==Final Test==
+A-->B
+Loss: 0.170565, Angle_Error : 37.981171, T_Error : 0.294935, success_ratio : 0.029297
+==Train==
+A-->B
+EPOCH:: 0, Loss: 0.133017, Angle_Error : 31.586426, T_Error : 0.285608
+==Test==
+A-->B
+Loss: 0.170565, Angle_Error : 37.981171, T_Error : 0.294935
+==Final Test==
+A-->B
+Loss: 0.113902, Angle_Error : 28.482025, T_Error : 0.287466, success_ratio : 0.027344
+==Train==
+A-->B
+EPOCH:: 1, Loss: 0.154116, Angle_Error : 35.122452, T_Error : 0.291274
+==Test==
+A-->B
+Loss: 0.113902, Angle_Error : 28.482025, T_Error : 0.287466
+==Final Test==
+A-->B
+Loss: 0.088994, Angle_Error : 23.763540, T_Error : 0.279525, success_ratio : 0.054688
+==Train==
+A-->B
+EPOCH:: 2, Loss: 0.112974, Angle_Error : 27.722694, T_Error : 0.284929
+==Test==
+A-->B
+Loss: 0.088994, Angle_Error : 23.763540, T_Error : 0.279525
+==Final Test==
+A-->B
+Loss: 0.104782, Angle_Error : 26.430401, T_Error : 0.285553, success_ratio : 0.050781
+==Train==
+A-->B
+EPOCH:: 3, Loss: 0.107483, Angle_Error : 26.918396, T_Error : 0.283361
+==Test==
+A-->B
+Loss: 0.104782, Angle_Error : 26.430401, T_Error : 0.285553
+==Final Test==
+A-->B
+Loss: 0.113032, Angle_Error : 27.695080, T_Error : 0.292580, success_ratio : 0.041016
+==Train==
+A-->B
+EPOCH:: 4, Loss: 0.129813, Angle_Error : 30.933704, T_Error : 0.287927
+==Test==
+A-->B
+Loss: 0.113032, Angle_Error : 27.695080, T_Error : 0.292580
+==Final Test==
+A-->B
+Loss: 0.116995, Angle_Error : 28.702337, T_Error : 0.281028, success_ratio : 0.042969
+==Train==
+A-->B
+EPOCH:: 5, Loss: 0.143315, Angle_Error : 33.231911, T_Error : 0.288992
+==Test==
+A-->B
+Loss: 0.116995, Angle_Error : 28.702337, T_Error : 0.281028
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, eval=False, ff_dims=256, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512)
+==Final Test==
+A-->B
+Loss: 0.504845, Angle_Error : 94.662933, T_Error : 0.316687, success_ratio : 0.000000
+==Train==
+A-->B
+EPOCH:: 0, Loss: 0.579589, Angle_Error : 106.366943, T_Error : 0.317864
+==Test==
+A-->B
+Loss: 0.504845, Angle_Error : 94.662933, T_Error : 0.316687
+==Final Test==
+A-->B
+Loss: 0.440244, Angle_Error : 84.584183, T_Error : 0.317156, success_ratio : 0.000000
+==Train==
+A-->B
+EPOCH:: 1, Loss: 0.508958, Angle_Error : 95.398178, T_Error : 0.322083
+==Test==
+A-->B
+Loss: 0.440244, Angle_Error : 84.584183, T_Error : 0.317156
+==Final Test==
+A-->B
+Loss: 0.522306, Angle_Error : 97.024536, T_Error : 0.315817, success_ratio : 0.000000
+==Train==
+A-->B
+EPOCH:: 2, Loss: 0.468681, Angle_Error : nan, T_Error : 0.322799
+==Test==
+A-->B
+Loss: 0.522306, Angle_Error : 97.024536, T_Error : 0.315817
+==Final Test==
+A-->B
+Loss: 0.371980, Angle_Error : 72.590607, T_Error : 0.321789, success_ratio : 0.007812
+==Train==
+A-->B
+EPOCH:: 3, Loss: 0.432098, Angle_Error : nan, T_Error : 0.323513
+==Test==
+A-->B
+Loss: 0.371980, Angle_Error : 72.590607, T_Error : 0.321789
+==Final Test==
+A-->B
+Loss: 0.429768, Angle_Error : 82.854507, T_Error : 0.313535, success_ratio : 0.009766
+==Train==
+A-->B
+EPOCH:: 4, Loss: 0.442618, Angle_Error : 83.572067, T_Error : 0.333099
+==Test==
+A-->B
+Loss: 0.429768, Angle_Error : 82.854507, T_Error : 0.313535
+==Final Test==
+A-->B
+Loss: 0.479770, Angle_Error : 89.880424, T_Error : 0.352803, success_ratio : 0.000000
+==Train==
+A-->B
+EPOCH:: 5, Loss: 0.359681, Angle_Error : nan, T_Error : 0.318259
+==Test==
+A-->B
+Loss: 0.479770, Angle_Error : 89.880424, T_Error : 0.352803
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, eval=False, ff_dims=256, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512)
+==Final Test==
+A-->B
+Loss: 0.526051, Angle_Error : 98.500824, T_Error : 0.316626, success_ratio : 0.001953
+==Train==
+A-->B
+EPOCH:: 0, Loss: 0.581554, Angle_Error : 107.397209, T_Error : 0.318825
+==Test==
+A-->B
+Loss: 0.526051, Angle_Error : 98.500824, T_Error : 0.316626
+==Final Test==
+A-->B
+Loss: 0.493646, Angle_Error : 93.729538, T_Error : 0.324273, success_ratio : 0.000000
+==Train==
+A-->B
+EPOCH:: 1, Loss: 0.477350, Angle_Error : 90.750847, T_Error : 0.321917
+==Test==
+A-->B
+Loss: 0.493646, Angle_Error : 93.729538, T_Error : 0.324273
+==Final Test==
+A-->B
+Loss: 0.528567, Angle_Error : 99.207886, T_Error : 0.319242, success_ratio : 0.000000
+==Train==
+A-->B
+EPOCH:: 2, Loss: 0.429845, Angle_Error : 82.527130, T_Error : 0.327403
+==Test==
+A-->B
+Loss: 0.528567, Angle_Error : 99.207886, T_Error : 0.319242
+==Final Test==
+A-->B
+Loss: 0.356295, Angle_Error : 70.461502, T_Error : 0.318433, success_ratio : 0.005859
+==Train==
+A-->B
+EPOCH:: 3, Loss: 0.441611, Angle_Error : nan, T_Error : 0.325537
+==Test==
+A-->B
+Loss: 0.356295, Angle_Error : 70.461502, T_Error : 0.318433
+==Final Test==
+A-->B
+Loss: 0.285136, Angle_Error : 58.152596, T_Error : 0.317762, success_ratio : 0.015625
+==Train==
+A-->B
+EPOCH:: 4, Loss: 0.338821, Angle_Error : 67.475998, T_Error : 0.313932
+==Test==
+A-->B
+Loss: 0.285136, Angle_Error : 58.152596, T_Error : 0.317762
+==Final Test==
+A-->B
+Loss: 0.658088, Angle_Error : 119.308990, T_Error : 0.319479, success_ratio : 0.000000
+==Train==
+A-->B
+EPOCH:: 5, Loss: 0.366837, Angle_Error : 71.921471, T_Error : 0.315900
+==Test==
+A-->B
+Loss: 0.658088, Angle_Error : 119.308990, T_Error : 0.319479
+==Final Test==
+A-->B
+Loss: 0.357439, Angle_Error : 70.729095, T_Error : 0.328976, success_ratio : 0.005859
+==Train==
+A-->B
+EPOCH:: 6, Loss: 0.515272, Angle_Error : 96.363281, T_Error : 0.323327
+==Test==
+A-->B
+Loss: 0.357439, Angle_Error : 70.729095, T_Error : 0.328976
+==Final Test==
+A-->B
+Loss: 0.265361, Angle_Error : 54.942055, T_Error : 0.317214, success_ratio : 0.011719
+==Train==
+A-->B
+EPOCH:: 7, Loss: 0.305316, Angle_Error : 61.072792, T_Error : 0.322327
+==Test==
+A-->B
+Loss: 0.265361, Angle_Error : 54.942055, T_Error : 0.317214
+==Final Test==
+A-->B
+Loss: 0.199172, Angle_Error : 43.519608, T_Error : 0.310832, success_ratio : 0.009766
+==Train==
+A-->B
+EPOCH:: 8, Loss: 0.235770, Angle_Error : 49.377537, T_Error : 0.312239
+==Test==
+A-->B
+Loss: 0.199172, Angle_Error : 43.519608, T_Error : 0.310832
+==Final Test==
+A-->B
+Loss: 0.216721, Angle_Error : 46.404510, T_Error : 0.308294, success_ratio : 0.013672
+==Train==
+A-->B
+EPOCH:: 9, Loss: 0.338781, Angle_Error : 67.258911, T_Error : 0.318768
+==Test==
+A-->B
+Loss: 0.216721, Angle_Error : 46.404510, T_Error : 0.308294
+==Final Test==
+A-->B
+Loss: 0.213665, Angle_Error : 46.592690, T_Error : 0.293778, success_ratio : 0.007812
+==Train==
+A-->B
+EPOCH:: 10, Loss: 0.209961, Angle_Error : 45.026482, T_Error : 0.309148
+==Test==
+A-->B
+Loss: 0.213665, Angle_Error : 46.592690, T_Error : 0.293778
+==Final Test==
+A-->B
+Loss: 0.159297, Angle_Error : 36.225002, T_Error : 0.295692, success_ratio : 0.019531
+==Train==
+A-->B
+EPOCH:: 11, Loss: 0.167303, Angle_Error : 37.804432, T_Error : 0.298446
+==Test==
+A-->B
+Loss: 0.159297, Angle_Error : 36.225002, T_Error : 0.295692
+==Final Test==
+A-->B
+Loss: 0.145879, Angle_Error : 33.841370, T_Error : 0.301707, success_ratio : 0.025391
+==Train==
+A-->B
+EPOCH:: 12, Loss: 0.144117, Angle_Error : 33.378094, T_Error : 0.299060
+==Test==
+A-->B
+Loss: 0.145879, Angle_Error : 33.841370, T_Error : 0.301707
+==Final Test==
+A-->B
+Loss: 0.202149, Angle_Error : 44.120667, T_Error : 0.306881, success_ratio : 0.009766
+==Train==
+A-->B
+EPOCH:: 13, Loss: 0.151437, Angle_Error : 34.706520, T_Error : 0.298745
+==Test==
+A-->B
+Loss: 0.202149, Angle_Error : 44.120667, T_Error : 0.306881
+Namespace(batch_size=2, dropout=0.1, emb_dims=64, epochs=121, eval=False, ff_dims=256, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512)
+==Final Test==
+A-->B
+Loss: 0.449241, Angle_Error : 85.504173, T_Error : 0.318835, success_ratio : 0.000000
+==Train==
+A-->B
+EPOCH:: 0, Loss: 0.520798, Angle_Error : 96.858566, T_Error : 0.311227
+==Test==
+A-->B
+Loss: 0.449241, Angle_Error : 85.504173, T_Error : 0.318835
+==Final Test==
+A-->B
+Loss: 0.415664, Angle_Error : 80.366203, T_Error : 0.308016, success_ratio : 0.005859
+==Train==
+A-->B
+EPOCH:: 1, Loss: 0.447368, Angle_Error : 84.849304, T_Error : 0.320437
+==Test==
+A-->B
+Loss: 0.415664, Angle_Error : 80.366203, T_Error : 0.308016
+==Final Test==
+A-->B
+Loss: 0.521644, Angle_Error : 96.733200, T_Error : 0.324421, success_ratio : 0.000000
+==Train==
+A-->B
+EPOCH:: 2, Loss: 0.403063, Angle_Error : 77.995880, T_Error : 0.304821
+==Test==
+A-->B
+Loss: 0.521644, Angle_Error : 96.733200, T_Error : 0.324421
+==Final Test==
+A-->B
+Loss: 0.334832, Angle_Error : 66.347961, T_Error : 0.286823, success_ratio : 0.021484
+==Train==
+A-->B
+EPOCH:: 3, Loss: 0.387230, Angle_Error : 75.312454, T_Error : 0.300600
+==Test==
+A-->B
+Loss: 0.334832, Angle_Error : 66.347961, T_Error : 0.286823
+==Final Test==
+A-->B
+Loss: 0.312762, Angle_Error : 63.216499, T_Error : 0.286036, success_ratio : 0.023438
+==Train==
+A-->B
+EPOCH:: 4, Loss: 0.331471, Angle_Error : nan, T_Error : 0.290614
+==Test==
+A-->B
+Loss: 0.312762, Angle_Error : 63.216499, T_Error : 0.286036
+==Final Test==
+A-->B
+Loss: 0.227780, Angle_Error : 48.299938, T_Error : 0.255586, success_ratio : 0.037109
+==Train==
+A-->B
+EPOCH:: 5, Loss: 0.280619, Angle_Error : nan, T_Error : 0.269786
+==Test==
+A-->B
+Loss: 0.227780, Angle_Error : 48.299938, T_Error : 0.255586
+==Final Test==
+A-->B
+Loss: 0.160231, Angle_Error : 36.826408, T_Error : 0.230051, success_ratio : 0.039062
+==Train==
+A-->B
+EPOCH:: 6, Loss: 0.245469, Angle_Error : 51.249214, T_Error : 0.253029
+==Test==
+A-->B
+Loss: 0.160231, Angle_Error : 36.826408, T_Error : 0.230051
+==Final Test==
+A-->B
+Loss: 0.415317, Angle_Error : 80.648575, T_Error : 0.280934, success_ratio : 0.005859
+==Train==
+A-->B
+EPOCH:: 7, Loss: 0.192129, Angle_Error : 42.280121, T_Error : 0.236952
+==Test==
+A-->B
+Loss: 0.415317, Angle_Error : 80.648575, T_Error : 0.280934
+==Final Test==
+A-->B
+Loss: 0.136496, Angle_Error : 32.374916, T_Error : 0.228285, success_ratio : 0.042969
+==Train==
+A-->B
+EPOCH:: 8, Loss: 0.204179, Angle_Error : 44.115829, T_Error : 0.240115
+==Test==
+A-->B
+Loss: 0.136496, Angle_Error : 32.374916, T_Error : 0.228285
+==Final Test==
+A-->B
+Loss: 0.154894, Angle_Error : 36.415398, T_Error : 0.220447, success_ratio : 0.035156
+==Train==
+A-->B
+EPOCH:: 9, Loss: 0.259604, Angle_Error : 54.143028, T_Error : 0.246712
+==Test==
+A-->B
+Loss: 0.154894, Angle_Error : 36.415398, T_Error : 0.220447
+==Final Test==
+A-->B
+Loss: 0.137241, Angle_Error : nan, T_Error : 0.192157, success_ratio : 0.070312
+==Train==
+A-->B
+EPOCH:: 10, Loss: 0.114899, Angle_Error : 28.750849, T_Error : 0.189533
+==Test==
+A-->B
+Loss: 0.137241, Angle_Error : nan, T_Error : 0.192157
+==Final Test==
+A-->B
+Loss: 0.073390, Angle_Error : 21.158512, T_Error : 0.169190, success_ratio : 0.093750
+==Train==
+A-->B
+EPOCH:: 11, Loss: 0.092948, Angle_Error : 24.946249, T_Error : 0.181637
+==Test==
+A-->B
+Loss: 0.073390, Angle_Error : 21.158512, T_Error : 0.169190
+==Final Test==
+A-->B
+Loss: 0.036976, Angle_Error : 13.697874, T_Error : 0.150300, success_ratio : 0.136719
+==Train==
+A-->B
+EPOCH:: 12, Loss: 0.069469, Angle_Error : 20.437860, T_Error : 0.167812
+==Test==
+A-->B
+Loss: 0.036976, Angle_Error : 13.697874, T_Error : 0.150300
+==Final Test==
+A-->B
+Loss: 0.046336, Angle_Error : 15.910578, T_Error : 0.152337, success_ratio : 0.130859
+==Train==
+A-->B
+EPOCH:: 13, Loss: 0.110806, Angle_Error : nan, T_Error : 0.185213
+==Test==
+A-->B
+Loss: 0.046336, Angle_Error : 15.910578, T_Error : 0.152337
+==Final Test==
+A-->B
+Loss: 0.272451, Angle_Error : 55.603752, T_Error : 0.248949, success_ratio : 0.048828
+==Train==
+A-->B
+EPOCH:: 14, Loss: 0.080709, Angle_Error : 22.088989, T_Error : 0.164446
+==Test==
+A-->B
+Loss: 0.272451, Angle_Error : 55.603752, T_Error : 0.248949
+==Final Test==
+A-->B
+Loss: 0.025607, Angle_Error : 11.392477, T_Error : 0.124840, success_ratio : 0.195312
+==Train==
+A-->B
+EPOCH:: 15, Loss: 0.053000, Angle_Error : 17.161762, T_Error : 0.156541
+==Test==
+A-->B
+Loss: 0.025607, Angle_Error : 11.392477, T_Error : 0.124840
+==Final Test==
+A-->B
+Loss: 0.061827, Angle_Error : 19.172565, T_Error : 0.164803, success_ratio : 0.097656
+==Train==
+A-->B
+EPOCH:: 16, Loss: 0.109081, Angle_Error : 26.931673, T_Error : 0.174900
+==Test==
+A-->B
+Loss: 0.061827, Angle_Error : 19.172565, T_Error : 0.164803
+==Final Test==
+A-->B
+Loss: 0.032860, Angle_Error : 12.602467, T_Error : 0.135704, success_ratio : 0.201172
+==Train==
+A-->B
+EPOCH:: 17, Loss: 0.054323, Angle_Error : 17.352749, T_Error : 0.153868
+==Test==
+A-->B
+Loss: 0.032860, Angle_Error : 12.602467, T_Error : 0.135704
+==Final Test==
+A-->B
+Loss: 0.029808, Angle_Error : 12.194147, T_Error : 0.131879, success_ratio : 0.179688
+==Train==
+A-->B
+EPOCH:: 18, Loss: 0.058694, Angle_Error : 17.927792, T_Error : 0.145662
+==Test==
+A-->B
+Loss: 0.029808, Angle_Error : 12.194147, T_Error : 0.131879
+==Final Test==
+A-->B
+Loss: 0.033955, Angle_Error : 12.895695, T_Error : 0.133957, success_ratio : 0.181641
+==Train==
+A-->B
+EPOCH:: 19, Loss: 0.040422, Angle_Error : 14.378259, T_Error : 0.137313
+==Test==
+A-->B
+Loss: 0.033955, Angle_Error : 12.895695, T_Error : 0.133957
+==Final Test==
+A-->B
+Loss: 0.032452, Angle_Error : 12.546301, T_Error : 0.134644, success_ratio : 0.187500
+==Train==
+A-->B
+EPOCH:: 20, Loss: 0.036355, Angle_Error : 13.070760, T_Error : 0.127205
+==Test==
+A-->B
+Loss: 0.032452, Angle_Error : 12.546301, T_Error : 0.134644
+==Final Test==
+A-->B
+Loss: 0.031971, Angle_Error : 12.648704, T_Error : 0.127492, success_ratio : 0.193359
+==Train==
+A-->B
+EPOCH:: 21, Loss: 0.071921, Angle_Error : 20.153454, T_Error : 0.153307
+==Test==
+A-->B
+Loss: 0.031971, Angle_Error : 12.648704, T_Error : 0.127492
+==Final Test==
+A-->B
+Loss: 0.077627, Angle_Error : 22.234447, T_Error : 0.146947, success_ratio : 0.121094
+==Train==
+A-->B
+EPOCH:: 22, Loss: 0.034211, Angle_Error : 12.916243, T_Error : 0.129084
+==Test==
+A-->B
+Loss: 0.077627, Angle_Error : 22.234447, T_Error : 0.146947
+==Final Test==
+A-->B
+Loss: 0.025726, Angle_Error : 11.073524, T_Error : 0.121482, success_ratio : 0.251953
+==Train==
+A-->B
+EPOCH:: 23, Loss: 0.020305, Angle_Error : 9.881796, T_Error : 0.115983
+==Test==
+A-->B
+Loss: 0.025726, Angle_Error : 11.073524, T_Error : 0.121482
+==Final Test==
+A-->B
+Loss: 0.032343, Angle_Error : 12.997457, T_Error : 0.138773, success_ratio : 0.158203
+==Train==
+A-->B
+EPOCH:: 24, Loss: 0.064058, Angle_Error : 18.355513, T_Error : 0.138934
+==Test==
+A-->B
+Loss: 0.032343, Angle_Error : 12.997457, T_Error : 0.138773
+==Final Test==
+A-->B
+Loss: 0.019736, Angle_Error : 9.924725, T_Error : 0.116128, success_ratio : 0.248047
+==Train==
+A-->B
+EPOCH:: 25, Loss: 0.036818, Angle_Error : 13.438093, T_Error : 0.126926
+==Test==
+A-->B
+Loss: 0.019736, Angle_Error : 9.924725, T_Error : 0.116128
+==Final Test==
+A-->B
+Loss: 0.368047, Angle_Error : 73.511620, T_Error : 0.234354, success_ratio : 0.037109
+==Train==
+A-->B
+EPOCH:: 26, Loss: 0.083757, Angle_Error : 21.484623, T_Error : 0.146253
+==Test==
+A-->B
+Loss: 0.368047, Angle_Error : 73.511620, T_Error : 0.234354
+==Final Test==
+A-->B
+Loss: 0.017375, Angle_Error : 9.160765, T_Error : 0.102753, success_ratio : 0.291016
+==Train==
+A-->B
+EPOCH:: 27, Loss: 0.051910, Angle_Error : 16.189686, T_Error : 0.133788
+==Test==
+A-->B
+Loss: 0.017375, Angle_Error : 9.160765, T_Error : 0.102753
+==Final Test==
+A-->B
+Loss: 0.019786, Angle_Error : 9.497290, T_Error : 0.108663, success_ratio : 0.304688
+==Train==
+A-->B
+EPOCH:: 28, Loss: 0.038345, Angle_Error : 13.151407, T_Error : 0.119614
+==Test==
+A-->B
+Loss: 0.019786, Angle_Error : 9.497290, T_Error : 0.108663
+==Final Test==
+A-->B
+Loss: 0.030550, Angle_Error : 11.749687, T_Error : 0.118302, success_ratio : 0.279297
+==Train==
+A-->B
+EPOCH:: 29, Loss: 0.028471, Angle_Error : 11.238889, T_Error : 0.112438
+==Test==
+A-->B
+Loss: 0.030550, Angle_Error : 11.749687, T_Error : 0.118302
+==Final Test==
+A-->B
+Loss: 0.013993, Angle_Error : 8.272882, T_Error : 0.101955, success_ratio : 0.304688
+==Train==
+A-->B
+EPOCH:: 30, Loss: 0.024458, Angle_Error : 10.603507, T_Error : 0.108791
+==Test==
+A-->B
+Loss: 0.013993, Angle_Error : 8.272882, T_Error : 0.101955
+==Final Test==
+A-->B
+Loss: 0.012623, Angle_Error : 7.860638, T_Error : 0.098712, success_ratio : 0.304688
+==Train==
+A-->B
+EPOCH:: 31, Loss: 0.020181, Angle_Error : 9.383684, T_Error : 0.107282
+==Test==
+A-->B
+Loss: 0.012623, Angle_Error : 7.860638, T_Error : 0.098712
+==Final Test==
+A-->B
+Loss: 0.012453, Angle_Error : 7.481275, T_Error : 0.096012, success_ratio : 0.382812
+==Train==
+A-->B
+EPOCH:: 32, Loss: 0.059177, Angle_Error : 16.552694, T_Error : 0.141693
+==Test==
+A-->B
+Loss: 0.012453, Angle_Error : 7.481275, T_Error : 0.096012
+==Final Test==
+A-->B
+Loss: 0.013978, Angle_Error : 7.506735, T_Error : 0.092921, success_ratio : 0.435547
+==Train==
+A-->B
+EPOCH:: 33, Loss: 0.017369, Angle_Error : 8.743280, T_Error : 0.104154
+==Test==
+A-->B
+Loss: 0.013978, Angle_Error : 7.506735, T_Error : 0.092921
+==Final Test==
+A-->B
+Loss: 0.060157, Angle_Error : 17.397072, T_Error : 0.149406, success_ratio : 0.224609
+==Train==
+A-->B
+EPOCH:: 34, Loss: 0.041732, Angle_Error : 13.244435, T_Error : 0.115778
+==Test==
+A-->B
+Loss: 0.060157, Angle_Error : 17.397072, T_Error : 0.149406
+==Final Test==
+A-->B
+Loss: 0.013369, Angle_Error : 7.571903, T_Error : 0.090117, success_ratio : 0.400391
+==Train==
+A-->B
+EPOCH:: 35, Loss: 0.019369, Angle_Error : 9.001370, T_Error : 0.101674
+==Test==
+A-->B
+Loss: 0.013369, Angle_Error : 7.571903, T_Error : 0.090117
+==Final Test==
+A-->B
+Loss: 0.010084, Angle_Error : 6.679407, T_Error : 0.086706, success_ratio : 0.480469
+==Train==
+A-->B
+EPOCH:: 36, Loss: 0.017741, Angle_Error : 8.704233, T_Error : 0.098791
+==Test==
+A-->B
+Loss: 0.010084, Angle_Error : 6.679407, T_Error : 0.086706
+==Final Test==
+A-->B
+Loss: 0.010133, Angle_Error : 6.425249, T_Error : 0.091212, success_ratio : 0.492188
+==Train==
+A-->B
+EPOCH:: 37, Loss: 0.014140, Angle_Error : 7.670005, T_Error : 0.096491
+==Test==
+A-->B
+Loss: 0.010133, Angle_Error : 6.425249, T_Error : 0.091212
+==Final Test==
+A-->B
+Loss: 0.011959, Angle_Error : 7.206669, T_Error : 0.091375, success_ratio : 0.429688
+==Train==
+A-->B
+EPOCH:: 38, Loss: 0.017832, Angle_Error : 8.376621, T_Error : 0.096184
+==Test==
+A-->B
+Loss: 0.011959, Angle_Error : 7.206669, T_Error : 0.091375
+==Final Test==
+A-->B
+Loss: 0.015889, Angle_Error : 7.877124, T_Error : 0.088190, success_ratio : 0.453125
+==Train==
+A-->B
+EPOCH:: 39, Loss: 0.036553, Angle_Error : 12.451314, T_Error : 0.113542
+==Test==
+A-->B
+Loss: 0.015889, Angle_Error : 7.877124, T_Error : 0.088190
+==Final Test==
+A-->B
+Loss: 0.011033, Angle_Error : 7.125324, T_Error : 0.089681, success_ratio : 0.412109
+==Train==
+A-->B
+EPOCH:: 40, Loss: 0.030651, Angle_Error : 10.933560, T_Error : 0.107726
+==Test==
+A-->B
+Loss: 0.011033, Angle_Error : 7.125324, T_Error : 0.089681
+==Final Test==
+A-->B
+Loss: 0.031657, Angle_Error : 11.927361, T_Error : 0.122382, success_ratio : 0.240234
+==Train==
+A-->B
+EPOCH:: 41, Loss: 0.032850, Angle_Error : 11.441157, T_Error : 0.105566
+==Test==
+A-->B
+Loss: 0.031657, Angle_Error : 11.927361, T_Error : 0.122382
+==Final Test==
+A-->B
+Loss: 0.009548, Angle_Error : 6.035972, T_Error : 0.082664, success_ratio : 0.546875
+==Train==
+A-->B
+EPOCH:: 42, Loss: 0.011231, Angle_Error : 7.096691, T_Error : 0.091243
+==Test==
+A-->B
+Loss: 0.009548, Angle_Error : 6.035972, T_Error : 0.082664
+==Final Test==
+A-->B
+Loss: 0.022092, Angle_Error : 9.657995, T_Error : 0.109339, success_ratio : 0.333984
+==Train==
+A-->B
+EPOCH:: 43, Loss: 0.029605, Angle_Error : 10.642914, T_Error : 0.107959
+==Test==
+A-->B
+Loss: 0.022092, Angle_Error : 9.657995, T_Error : 0.109339
+==Final Test==
+A-->B
+Loss: 0.013099, Angle_Error : 6.980005, T_Error : 0.094915, success_ratio : 0.492188
+==Train==
+A-->B
+EPOCH:: 44, Loss: 0.008780, Angle_Error : 6.336634, T_Error : 0.090612
+==Test==
+A-->B
+Loss: 0.013099, Angle_Error : 6.980005, T_Error : 0.094915
+==Final Test==
+A-->B
+Loss: 0.010099, Angle_Error : 6.200022, T_Error : 0.092949, success_ratio : 0.525391
+==Train==
+A-->B
+EPOCH:: 45, Loss: 0.021967, Angle_Error : 9.333094, T_Error : 0.102145
+==Test==
+A-->B
+Loss: 0.010099, Angle_Error : 6.200022, T_Error : 0.092949
+==Final Test==
+A-->B
+Loss: 0.012764, Angle_Error : 7.587841, T_Error : 0.093762, success_ratio : 0.398438
+==Train==
+A-->B
+EPOCH:: 46, Loss: 0.039165, Angle_Error : 12.048045, T_Error : 0.113459
+==Test==
+A-->B
+Loss: 0.012764, Angle_Error : 7.587841, T_Error : 0.093762
+==Final Test==
+A-->B
+Loss: 0.011035, Angle_Error : 6.474433, T_Error : 0.081582, success_ratio : 0.509766
+==Train==
+A-->B
+EPOCH:: 47, Loss: 0.008392, Angle_Error : 6.223514, T_Error : 0.087991
+==Test==
+A-->B
+Loss: 0.011035, Angle_Error : 6.474433, T_Error : 0.081582
+==Final Test==
+A-->B
+Loss: 0.009710, Angle_Error : 6.211902, T_Error : 0.090134, success_ratio : 0.517578
+==Train==
+A-->B
+EPOCH:: 48, Loss: 0.010086, Angle_Error : 6.453625, T_Error : 0.086568
+==Test==
+A-->B
+Loss: 0.009710, Angle_Error : 6.211902, T_Error : 0.090134
+==Final Test==
+A-->B
+Loss: 0.032101, Angle_Error : 12.487792, T_Error : 0.112788, success_ratio : 0.222656
+==Train==
+A-->B
+EPOCH:: 49, Loss: 0.034352, Angle_Error : 11.266451, T_Error : 0.105025
+==Test==
+A-->B
+Loss: 0.032101, Angle_Error : 12.487792, T_Error : 0.112788
+==Final Test==
+A-->B
+Loss: 0.010584, Angle_Error : 6.859330, T_Error : 0.089120, success_ratio : 0.435547
+==Train==
+A-->B
+EPOCH:: 50, Loss: 0.014963, Angle_Error : 8.015337, T_Error : 0.092953
+==Test==
+A-->B
+Loss: 0.010584, Angle_Error : 6.859330, T_Error : 0.089120
+==Final Test==
+A-->B
+Loss: 0.066871, Angle_Error : 18.287563, T_Error : 0.153656, success_ratio : 0.214844
+==Train==
+A-->B
+EPOCH:: 51, Loss: 0.011220, Angle_Error : 6.562037, T_Error : 0.084229
+==Test==
+A-->B
+Loss: 0.066871, Angle_Error : 18.287563, T_Error : 0.153656
+==Final Test==
+A-->B
+Loss: 0.008479, Angle_Error : 5.999878, T_Error : 0.082216, success_ratio : 0.517578
+==Train==
+A-->B
+EPOCH:: 52, Loss: 0.015586, Angle_Error : 7.844737, T_Error : 0.089941
+==Test==
+A-->B
+Loss: 0.008479, Angle_Error : 5.999878, T_Error : 0.082216
+==Final Test==
+A-->B
+Loss: 0.009517, Angle_Error : 6.477920, T_Error : 0.082319, success_ratio : 0.457031
+==Train==
+A-->B
+EPOCH:: 53, Loss: 0.012903, Angle_Error : 7.040929, T_Error : 0.089427
+==Test==
+A-->B
+Loss: 0.009517, Angle_Error : 6.477920, T_Error : 0.082319
+==Final Test==
+A-->B
+Loss: 0.007494, Angle_Error : 5.442354, T_Error : 0.077993, success_ratio : 0.623047
+==Train==
+A-->B
+EPOCH:: 54, Loss: 0.005491, Angle_Error : 5.116515, T_Error : 0.075896
+==Test==
+A-->B
+Loss: 0.007494, Angle_Error : 5.442354, T_Error : 0.077993
+==Final Test==
+A-->B
+Loss: 0.030448, Angle_Error : 12.486078, T_Error : 0.124524, success_ratio : 0.212891
+==Train==
+A-->B
+EPOCH:: 55, Loss: 0.019068, Angle_Error : 7.995023, T_Error : 0.089797
+==Test==
+A-->B
+Loss: 0.030448, Angle_Error : 12.486078, T_Error : 0.124524
+==Final Test==
+A-->B
+Loss: 0.019163, Angle_Error : 9.054182, T_Error : 0.103560, success_ratio : 0.345703
+==Train==
+A-->B
+EPOCH:: 56, Loss: 0.039809, Angle_Error : 13.314936, T_Error : 0.109103
+==Test==
+A-->B
+Loss: 0.019163, Angle_Error : 9.054182, T_Error : 0.103560
+==Final Test==
+A-->B
+Loss: 0.008504, Angle_Error : 5.616882, T_Error : 0.081592, success_ratio : 0.593750
+==Train==
+A-->B
+EPOCH:: 57, Loss: 0.006499, Angle_Error : 5.535990, T_Error : 0.079284
+==Test==
+A-->B
+Loss: 0.008504, Angle_Error : 5.616882, T_Error : 0.081592
+==Final Test==
+A-->B
+Loss: 0.012555, Angle_Error : 6.963719, T_Error : 0.085535, success_ratio : 0.480469
+==Train==
+A-->B
+EPOCH:: 58, Loss: 0.026637, Angle_Error : 9.994032, T_Error : 0.099999
+==Test==
+A-->B
+Loss: 0.012555, Angle_Error : 6.963719, T_Error : 0.085535
+==Final Test==
+A-->B
+Loss: 0.025908, Angle_Error : 10.245789, T_Error : 0.103311, success_ratio : 0.337891
+==Train==
+A-->B
+EPOCH:: 59, Loss: 0.016626, Angle_Error : 8.307106, T_Error : 0.093450
+==Test==
+A-->B
+Loss: 0.025908, Angle_Error : 10.245789, T_Error : 0.103311
+==Final Test==
+A-->B
+Loss: 0.008353, Angle_Error : 5.536621, T_Error : 0.084710, success_ratio : 0.638672
+==Train==
+A-->B
+EPOCH:: 60, Loss: 0.010219, Angle_Error : 6.612480, T_Error : 0.083514
+==Test==
+A-->B
+Loss: 0.008353, Angle_Error : 5.536621, T_Error : 0.084710
+==Final Test==
+A-->B
+Loss: 0.105908, Angle_Error : 26.667992, T_Error : 0.195548, success_ratio : 0.095703
+==Train==
+A-->B
+EPOCH:: 61, Loss: 0.016314, Angle_Error : 7.000879, T_Error : 0.083037
+==Test==
+A-->B
+Loss: 0.105908, Angle_Error : 26.667992, T_Error : 0.195548
+==Final Test==
+A-->B
+Loss: 0.008108, Angle_Error : 5.762251, T_Error : 0.083985, success_ratio : 0.544922
+==Train==
+A-->B
+EPOCH:: 62, Loss: 0.028522, Angle_Error : 10.835897, T_Error : 0.102241
+==Test==
+A-->B
+Loss: 0.008108, Angle_Error : 5.762251, T_Error : 0.083985
+==Final Test==
+A-->B
+Loss: 0.010241, Angle_Error : 5.993445, T_Error : 0.085386, success_ratio : 0.595703
+==Train==
+A-->B
+EPOCH:: 63, Loss: 0.007425, Angle_Error : 5.703998, T_Error : 0.082888
+==Test==
+A-->B
+Loss: 0.010241, Angle_Error : 5.993445, T_Error : 0.085386
+==Final Test==
+A-->B
+Loss: 0.181914, Angle_Error : 39.440826, T_Error : 0.213551, success_ratio : 0.101562
+==Train==
+A-->B
+EPOCH:: 64, Loss: 0.035319, Angle_Error : 10.446598, T_Error : 0.093164
+==Test==
+A-->B
+Loss: 0.181914, Angle_Error : 39.440826, T_Error : 0.213551
+==Final Test==
+A-->B
+Loss: 0.009638, Angle_Error : 6.053214, T_Error : 0.086257, success_ratio : 0.546875
+==Train==
+A-->B
+EPOCH:: 65, Loss: 0.026509, Angle_Error : 10.490742, T_Error : 0.101647
+==Test==
+A-->B
+Loss: 0.009638, Angle_Error : 6.053214, T_Error : 0.086257
+==Final Test==
+A-->B
+Loss: 0.007633, Angle_Error : 5.496931, T_Error : 0.089435, success_ratio : 0.558594
+==Train==
+A-->B
+EPOCH:: 66, Loss: 0.006101, Angle_Error : 5.207147, T_Error : 0.079104
+==Test==
+A-->B
+Loss: 0.007633, Angle_Error : 5.496931, T_Error : 0.089435
+==Final Test==
+A-->B
+Loss: 0.051971, Angle_Error : 16.334572, T_Error : 0.150322, success_ratio : 0.167969
+==Train==
+A-->B
+EPOCH:: 67, Loss: 0.017852, Angle_Error : 7.697721, T_Error : 0.088967
+==Test==
+A-->B
+Loss: 0.051971, Angle_Error : 16.334572, T_Error : 0.150322
+==Final Test==
+A-->B
+Loss: 0.007697, Angle_Error : 5.452693, T_Error : 0.078615, success_ratio : 0.625000
+==Train==
+A-->B
+EPOCH:: 68, Loss: 0.008369, Angle_Error : 6.056189, T_Error : 0.084788
+==Test==
+A-->B
+Loss: 0.007697, Angle_Error : 5.452693, T_Error : 0.078615
+==Final Test==
+A-->B
+Loss: 0.009312, Angle_Error : 6.529026, T_Error : 0.086312, success_ratio : 0.455078
+==Train==
+A-->B
+EPOCH:: 69, Loss: 0.015381, Angle_Error : 7.395178, T_Error : 0.089782
+==Test==
+A-->B
+Loss: 0.009312, Angle_Error : 6.529026, T_Error : 0.086312
+==Final Test==
+A-->B
+Loss: 0.335936, Angle_Error : 67.332634, T_Error : 0.208617, success_ratio : 0.039062
+==Train==
+A-->B
+EPOCH:: 70, Loss: 0.043011, Angle_Error : nan, T_Error : 0.108990
+==Test==
+A-->B
+Loss: 0.335936, Angle_Error : 67.332634, T_Error : 0.208617
+==Final Test==
+A-->B
+Loss: 0.008549, Angle_Error : 6.285816, T_Error : 0.086950, success_ratio : 0.488281
+==Train==
+A-->B
+EPOCH:: 71, Loss: 0.037425, Angle_Error : 12.922413, T_Error : 0.112291
+==Test==
+A-->B
+Loss: 0.008549, Angle_Error : 6.285816, T_Error : 0.086950
+==Final Test==
+A-->B
+Loss: 0.007638, Angle_Error : 5.636766, T_Error : 0.078070, success_ratio : 0.562500
+==Train==
+A-->B
+EPOCH:: 72, Loss: 0.006857, Angle_Error : 5.611978, T_Error : 0.082889
+==Test==
+A-->B
+Loss: 0.007638, Angle_Error : 5.636766, T_Error : 0.078070
+==Final Test==
+A-->B
+Loss: 0.006098, Angle_Error : 5.413190, T_Error : 0.075670, success_ratio : 0.564453
+==Train==
+A-->B
+EPOCH:: 73, Loss: 0.015475, Angle_Error : 7.657536, T_Error : 0.087410
+==Test==
+A-->B
+Loss: 0.006098, Angle_Error : 5.413190, T_Error : 0.075670
+==Final Test==
+A-->B
+Loss: 0.005232, Angle_Error : 4.720130, T_Error : 0.074895, success_ratio : 0.656250
+==Train==
+A-->B
+EPOCH:: 74, Loss: 0.004583, Angle_Error : 4.736464, T_Error : 0.073364
+==Test==
+A-->B
+Loss: 0.005232, Angle_Error : 4.720130, T_Error : 0.074895
+==Final Test==
+A-->B
+Loss: 0.009704, Angle_Error : 6.490423, T_Error : 0.081847, success_ratio : 0.484375
+==Train==
+A-->B
+EPOCH:: 75, Loss: 0.020668, Angle_Error : 8.720530, T_Error : 0.095232
+==Test==
+A-->B
+Loss: 0.009704, Angle_Error : 6.490423, T_Error : 0.081847
+==Final Test==
+A-->B
+Loss: 0.021652, Angle_Error : 9.408947, T_Error : 0.102805, success_ratio : 0.371094
+==Train==
+A-->B
+EPOCH:: 76, Loss: 0.006692, Angle_Error : 5.214299, T_Error : 0.074060
+==Test==
+A-->B
+Loss: 0.021652, Angle_Error : 9.408947, T_Error : 0.102805
+==Final Test==
+A-->B
+Loss: 0.009708, Angle_Error : 6.127917, T_Error : 0.086729, success_ratio : 0.537109
+==Train==
+A-->B
+EPOCH:: 77, Loss: 0.009169, Angle_Error : 5.749140, T_Error : 0.077967
+==Test==
+A-->B
+Loss: 0.009708, Angle_Error : 6.127917, T_Error : 0.086729
+==Final Test==
+A-->B
+Loss: 0.007299, Angle_Error : 5.996962, T_Error : 0.078073, success_ratio : 0.515625
+==Train==
+A-->B
+EPOCH:: 78, Loss: 0.028224, Angle_Error : 10.560844, T_Error : 0.099386
+==Test==
+A-->B
+Loss: 0.007299, Angle_Error : 5.996962, T_Error : 0.078073
+==Final Test==
+A-->B
+Loss: 0.005292, Angle_Error : 4.733972, T_Error : 0.074246, success_ratio : 0.667969
+==Train==
+A-->B
+EPOCH:: 79, Loss: 0.004775, Angle_Error : 4.805157, T_Error : 0.072886
+==Test==
+A-->B
+Loss: 0.005292, Angle_Error : 4.733972, T_Error : 0.074246
+==Final Test==
+A-->B
+Loss: 0.009481, Angle_Error : 6.561821, T_Error : 0.084951, success_ratio : 0.447266
+==Train==
+A-->B
+EPOCH:: 80, Loss: 0.013511, Angle_Error : 6.650840, T_Error : 0.081592
+==Test==
+A-->B
+Loss: 0.009481, Angle_Error : 6.561821, T_Error : 0.084951
+==Final Test==
+A-->B
+Loss: 0.026575, Angle_Error : 11.336199, T_Error : 0.110270, success_ratio : 0.273438
+==Train==
+A-->B
+EPOCH:: 81, Loss: 0.005347, Angle_Error : 4.880580, T_Error : 0.073736
+==Test==
+A-->B
+Loss: 0.026575, Angle_Error : 11.336199, T_Error : 0.110270
+==Final Test==
+A-->B
+Loss: 0.007178, Angle_Error : 4.830470, T_Error : 0.078428, success_ratio : 0.675781
+==Train==
+A-->B
+EPOCH:: 82, Loss: 0.009149, Angle_Error : 5.877202, T_Error : 0.079229
+==Test==
+A-->B
+Loss: 0.007178, Angle_Error : 4.830470, T_Error : 0.078428
+==Final Test==
+A-->B
+Loss: 0.005541, Angle_Error : 4.827965, T_Error : 0.073634, success_ratio : 0.658203
+==Train==
+A-->B
+EPOCH:: 83, Loss: 0.009977, Angle_Error : 5.955503, T_Error : 0.080296
+==Test==
+A-->B
+Loss: 0.005541, Angle_Error : 4.827965, T_Error : 0.073634
+==Final Test==
+A-->B
+Loss: 0.006010, Angle_Error : 5.116525, T_Error : 0.076474, success_ratio : 0.601562
+==Train==
+A-->B
+EPOCH:: 84, Loss: 0.016925, Angle_Error : 7.785730, T_Error : 0.086396
+==Test==
+A-->B
+Loss: 0.006010, Angle_Error : 5.116525, T_Error : 0.076474
+==Final Test==
+A-->B
+Loss: 0.005587, Angle_Error : 4.868546, T_Error : 0.074707, success_ratio : 0.664062
+==Train==
+A-->B
+EPOCH:: 85, Loss: 0.014375, Angle_Error : 7.096034, T_Error : 0.084076
+==Test==
+A-->B
+Loss: 0.005587, Angle_Error : 4.868546, T_Error : 0.074707
+==Final Test==
+A-->B
+Loss: 0.007070, Angle_Error : 5.402658, T_Error : 0.077338, success_ratio : 0.597656
+==Train==
+A-->B
+EPOCH:: 86, Loss: 0.006346, Angle_Error : 4.990935, T_Error : 0.074103
+==Test==
+A-->B
+Loss: 0.007070, Angle_Error : 5.402658, T_Error : 0.077338
+==Final Test==
+A-->B
+Loss: 0.007823, Angle_Error : 5.502629, T_Error : 0.078900, success_ratio : 0.605469
+==Train==
+A-->B
+EPOCH:: 87, Loss: 0.019449, Angle_Error : 8.133039, T_Error : 0.090025
+==Test==
+A-->B
+Loss: 0.007823, Angle_Error : 5.502629, T_Error : 0.078900
+==Final Test==
+A-->B
+Loss: 0.005577, Angle_Error : 4.630142, T_Error : 0.074617, success_ratio : 0.712891
+==Train==
+A-->B
+EPOCH:: 88, Loss: 0.004226, Angle_Error : 4.380476, T_Error : 0.072847
+==Test==
+A-->B
+Loss: 0.005577, Angle_Error : 4.630142, T_Error : 0.074617
+==Final Test==
+A-->B
+Loss: 0.014281, Angle_Error : 8.339138, T_Error : 0.092771, success_ratio : 0.332031
+==Train==
+A-->B
+EPOCH:: 89, Loss: 0.024308, Angle_Error : 9.131623, T_Error : 0.091772
+==Test==
+A-->B
+Loss: 0.014281, Angle_Error : 8.339138, T_Error : 0.092771
+==Final Test==
+A-->B
+Loss: 0.005535, Angle_Error : 5.146312, T_Error : 0.070818, success_ratio : 0.611328
+==Train==
+A-->B
+EPOCH:: 90, Loss: 0.012476, Angle_Error : 6.723311, T_Error : 0.083978
+==Test==
+A-->B
+Loss: 0.005535, Angle_Error : 5.146312, T_Error : 0.070818
+==Final Test==
+A-->B
+Loss: 0.004929, Angle_Error : 4.578379, T_Error : 0.069574, success_ratio : 0.666016
+==Train==
+A-->B
+EPOCH:: 91, Loss: 0.003848, Angle_Error : 4.248936, T_Error : 0.068111
+==Test==
+A-->B
+Loss: 0.004929, Angle_Error : 4.578379, T_Error : 0.069574
+==Final Test==
+A-->B
+Loss: 0.007143, Angle_Error : 5.079997, T_Error : 0.067881, success_ratio : 0.671875
+==Train==
+A-->B
+EPOCH:: 92, Loss: 0.010721, Angle_Error : 6.137917, T_Error : 0.077103
+==Test==
+A-->B
+Loss: 0.007143, Angle_Error : 5.079997, T_Error : 0.067881
+==Final Test==
+A-->B
+Loss: 0.004980, Angle_Error : 4.404960, T_Error : 0.072490, success_ratio : 0.720703
+==Train==
+A-->B
+EPOCH:: 93, Loss: 0.003853, Angle_Error : 4.209010, T_Error : 0.065209
+==Test==
+A-->B
+Loss: 0.004980, Angle_Error : 4.404960, T_Error : 0.072490
+==Final Test==
+A-->B
+Loss: 0.032697, Angle_Error : 12.345577, T_Error : 0.112378, success_ratio : 0.285156
+==Train==
+A-->B
+EPOCH:: 94, Loss: 0.031460, Angle_Error : 10.451442, T_Error : 0.095317
+==Test==
+A-->B
+Loss: 0.032697, Angle_Error : 12.345577, T_Error : 0.112378
+==Final Test==
+A-->B
+Loss: 0.009226, Angle_Error : 6.070248, T_Error : 0.079264, success_ratio : 0.544922
+==Train==
+A-->B
+EPOCH:: 95, Loss: 0.011212, Angle_Error : 6.995803, T_Error : 0.080327
+==Test==
+A-->B
+Loss: 0.009226, Angle_Error : 6.070248, T_Error : 0.079264
+==Final Test==
+A-->B
+Loss: 0.004649, Angle_Error : 4.487671, T_Error : 0.073490, success_ratio : 0.673828
+==Train==
+A-->B
+EPOCH:: 96, Loss: 0.004789, Angle_Error : 4.618431, T_Error : 0.067165
+==Test==
+A-->B
+Loss: 0.004649, Angle_Error : 4.487671, T_Error : 0.073490
+==Final Test==
+A-->B
+Loss: 0.023228, Angle_Error : 10.023066, T_Error : 0.100503, success_ratio : 0.355469
+==Train==
+A-->B
+EPOCH:: 97, Loss: 0.008859, Angle_Error : 5.172176, T_Error : 0.069314
+==Test==
+A-->B
+Loss: 0.023228, Angle_Error : 10.023066, T_Error : 0.100503
+==Final Test==
+A-->B
+Loss: 0.006603, Angle_Error : 5.019209, T_Error : 0.070779, success_ratio : 0.687500
+==Train==
+A-->B
+EPOCH:: 98, Loss: 0.023629, Angle_Error : 9.217102, T_Error : 0.085952
+==Test==
+A-->B
+Loss: 0.006603, Angle_Error : 5.019209, T_Error : 0.070779
+==Final Test==
+A-->B
+Loss: 0.004897, Angle_Error : 4.526380, T_Error : 0.071307, success_ratio : 0.675781
+==Train==
+A-->B
+EPOCH:: 99, Loss: 0.004687, Angle_Error : 4.430548, T_Error : 0.069095
+==Test==
+A-->B
+Loss: 0.004897, Angle_Error : 4.526380, T_Error : 0.071307
+==Final Test==
+A-->B
+Loss: 0.005357, Angle_Error : 4.610305, T_Error : 0.074089, success_ratio : 0.677734
+==Train==
+A-->B
+EPOCH:: 100, Loss: 0.003668, Angle_Error : 3.947191, T_Error : 0.065948
+==Test==
+A-->B
+Loss: 0.005357, Angle_Error : 4.610305, T_Error : 0.074089
+==Final Test==
+A-->B
+Loss: 0.005278, Angle_Error : 4.443948, T_Error : 0.076146, success_ratio : 0.705078
+==Train==
+A-->B
+EPOCH:: 101, Loss: 0.003998, Angle_Error : 4.059952, T_Error : 0.064874
+==Test==
+A-->B
+Loss: 0.005278, Angle_Error : 4.443948, T_Error : 0.076146
+==Final Test==
+A-->B
+Loss: 0.009163, Angle_Error : 6.112537, T_Error : 0.083076, success_ratio : 0.542969
+==Train==
+A-->B
+EPOCH:: 102, Loss: 0.012259, Angle_Error : 6.057651, T_Error : 0.073378
+==Test==
+A-->B
+Loss: 0.009163, Angle_Error : 6.112537, T_Error : 0.083076
+==Final Test==
+A-->B
+Loss: 0.004615, Angle_Error : 4.223055, T_Error : 0.065373, success_ratio : 0.753906
+==Train==
+A-->B
+EPOCH:: 103, Loss: 0.004443, Angle_Error : 4.577218, T_Error : 0.065858
+==Test==
+A-->B
+Loss: 0.004615, Angle_Error : 4.223055, T_Error : 0.065373
+==Final Test==
+A-->B
+Loss: 0.004472, Angle_Error : 3.969937, T_Error : 0.070601, success_ratio : 0.759766
+==Train==
+A-->B
+EPOCH:: 104, Loss: 0.002908, Angle_Error : 3.646276, T_Error : 0.061151
+==Test==
+A-->B
+Loss: 0.004472, Angle_Error : 3.969937, T_Error : 0.070601
+==Final Test==
+A-->B
+Loss: 0.008429, Angle_Error : 5.592989, T_Error : 0.083992, success_ratio : 0.628906
+==Train==
+A-->B
+EPOCH:: 105, Loss: 0.004037, Angle_Error : 4.031453, T_Error : 0.064274
+==Test==
+A-->B
+Loss: 0.008429, Angle_Error : 5.592989, T_Error : 0.083992
+==Final Test==
+A-->B
+Loss: 0.004650, Angle_Error : 4.048732, T_Error : 0.069564, success_ratio : 0.781250
+==Train==
+A-->B
+EPOCH:: 106, Loss: 0.003187, Angle_Error : 3.784419, T_Error : 0.062929
+==Test==
+A-->B
+Loss: 0.004650, Angle_Error : 4.048732, T_Error : 0.069564
+==Final Test==
+A-->B
+Loss: 0.005450, Angle_Error : 4.482583, T_Error : 0.069426, success_ratio : 0.720703
+==Train==
+A-->B
+EPOCH:: 107, Loss: 0.006359, Angle_Error : 4.931141, T_Error : 0.070093
+==Test==
+A-->B
+Loss: 0.005450, Angle_Error : 4.482583, T_Error : 0.069426
+==Final Test==
+A-->B
+Loss: 0.004863, Angle_Error : 4.131507, T_Error : 0.070639, success_ratio : 0.765625
+==Train==
+A-->B
+EPOCH:: 108, Loss: 0.003055, Angle_Error : 3.637157, T_Error : 0.062795
+==Test==
+A-->B
+Loss: 0.004863, Angle_Error : 4.131507, T_Error : 0.070639
+==Final Test==
+A-->B
+Loss: 0.007861, Angle_Error : 5.760203, T_Error : 0.077771, success_ratio : 0.564453
+==Train==
+A-->B
+EPOCH:: 109, Loss: 0.003927, Angle_Error : 3.947210, T_Error : 0.064459
+==Test==
+A-->B
+Loss: 0.007861, Angle_Error : 5.760203, T_Error : 0.077771
+==Final Test==
+A-->B
+Loss: 0.004951, Angle_Error : 4.349038, T_Error : 0.069931, success_ratio : 0.726562
+==Train==
+A-->B
+EPOCH:: 110, Loss: 0.003060, Angle_Error : 3.722001, T_Error : 0.062081
+==Test==
+A-->B
+Loss: 0.004951, Angle_Error : 4.349038, T_Error : 0.069931
+==Final Test==
+A-->B
+Loss: 0.015873, Angle_Error : 8.079418, T_Error : 0.108649, success_ratio : 0.404297
+==Train==
+A-->B
+EPOCH:: 111, Loss: 0.013162, Angle_Error : 6.112493, T_Error : 0.072129
+==Test==
+A-->B
+Loss: 0.015873, Angle_Error : 8.079418, T_Error : 0.108649
+==Final Test==
+A-->B
+Loss: 0.005106, Angle_Error : 4.451579, T_Error : 0.071096, success_ratio : 0.695312
+==Train==
+A-->B
+EPOCH:: 112, Loss: 0.005893, Angle_Error : 5.000858, T_Error : 0.077237
+==Test==
+A-->B
+Loss: 0.005106, Angle_Error : 4.451579, T_Error : 0.071096
+==Final Test==
+A-->B
+Loss: 0.004870, Angle_Error : 4.140053, T_Error : 0.070436, success_ratio : 0.761719
+==Train==
+A-->B
+EPOCH:: 113, Loss: 0.002964, Angle_Error : 3.638325, T_Error : 0.062337
+==Test==
+A-->B
+Loss: 0.004870, Angle_Error : 4.140053, T_Error : 0.070436
+==Final Test==
+A-->B
+Loss: 0.005039, Angle_Error : 4.308440, T_Error : 0.070892, success_ratio : 0.734375
+==Train==
+A-->B
+EPOCH:: 114, Loss: 0.002805, Angle_Error : 3.483001, T_Error : 0.060623
+==Test==
+A-->B
+Loss: 0.005039, Angle_Error : 4.308440, T_Error : 0.070892
+==Final Test==
+A-->B
+Loss: 0.005220, Angle_Error : 4.486266, T_Error : 0.068729, success_ratio : 0.705078
+==Train==
+A-->B
+EPOCH:: 115, Loss: 0.004293, Angle_Error : 4.084530, T_Error : 0.064027
+==Test==
+A-->B
+Loss: 0.005220, Angle_Error : 4.486266, T_Error : 0.068729
+==Final Test==
+A-->B
+Loss: 0.005034, Angle_Error : 4.280570, T_Error : 0.067962, success_ratio : 0.726562
+==Train==
+A-->B
+EPOCH:: 116, Loss: 0.006099, Angle_Error : 4.663792, T_Error : 0.066689
+==Test==
+A-->B
+Loss: 0.005034, Angle_Error : 4.280570, T_Error : 0.067962
+==Final Test==
+A-->B
+Loss: 0.004679, Angle_Error : 3.996146, T_Error : 0.064280, success_ratio : 0.814453
+==Train==
+A-->B
+EPOCH:: 117, Loss: 0.006532, Angle_Error : 4.626481, T_Error : 0.064841
+==Test==
+A-->B
+Loss: 0.004679, Angle_Error : 3.996146, T_Error : 0.064280
+==Final Test==
+A-->B
+Loss: 0.004352, Angle_Error : 3.846576, T_Error : 0.064824, success_ratio : 0.822266
+==Train==
+A-->B
+EPOCH:: 118, Loss: 0.002604, Angle_Error : 3.407287, T_Error : 0.058319
+==Test==
+A-->B
+Loss: 0.004352, Angle_Error : 3.846576, T_Error : 0.064824
+==Final Test==
+A-->B
+Loss: 0.009827, Angle_Error : 5.857059, T_Error : 0.076456, success_ratio : 0.582031
+==Train==
+A-->B
+EPOCH:: 119, Loss: 0.005440, Angle_Error : 4.426282, T_Error : 0.062876
+==Test==
+A-->B
+Loss: 0.009827, Angle_Error : 5.857059, T_Error : 0.076456
+==Final Test==
+A-->B
+Loss: 0.004884, Angle_Error : 4.217415, T_Error : 0.068598, success_ratio : 0.748047
+==Train==
+A-->B
+EPOCH:: 120, Loss: 0.003211, Angle_Error : 3.749498, T_Error : 0.059671
+==Test==
+A-->B
+Loss: 0.004884, Angle_Error : 4.217415, T_Error : 0.068598
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001538, Angle_Error : nan, T_Error : 0.006854, success_ratio : 0.994141
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001835, Angle_Error : 1.044724, T_Error : 0.006808, success_ratio : 0.996094
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001478, Angle_Error : 1.022449, T_Error : 0.006270, success_ratio : 0.996094
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.000946, Angle_Error : 1.236030, T_Error : 0.006753, success_ratio : 0.992188
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001921, Angle_Error : 1.111801, T_Error : 0.006511, success_ratio_1 : 0.757812, success_ratio_5 : 0.996094, success_ratio_10 : 0.996094, success_ratio_15 : 0.996094, success_ratio_20 : 0.996094, success_ratio_30 : 0.996094, success_ratio_40 : 0.996094 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.000921, Angle_Error : 0.874328, T_Error : 0.006617, success_ratio_1 : 0.779297, success_ratio_5 : 0.998047, success_ratio_10 : 0.998047, success_ratio_15 : 0.998047, success_ratio_20 : 0.998047, success_ratio_30 : 0.998047, success_ratio_40 : 0.998047 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.691067, Angle_Error : 122.424850, T_Error : 0.358256, success_ratio_1 : 0.029297, success_ratio_5 : 0.046875, success_ratio_10 : 0.048828, success_ratio_15 : 0.048828, success_ratio_20 : 0.048828, success_ratio_30 : 0.048828, success_ratio_40 : 0.048828 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.687345, Angle_Error : 121.418007, T_Error : 0.364011, success_ratio_1 : 0.037109, success_ratio_5 : 0.050781, success_ratio_10 : 0.050781, success_ratio_15 : 0.050781, success_ratio_20 : 0.050781, success_ratio_30 : 0.052734, success_ratio_40 : 0.087891 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.049830, Angle_Error : 1.037911, T_Error : 0.381068, success_ratio_1 : 0.780029, success_ratio_5 : 0.997070, success_ratio_10 : 0.997070, success_ratio_15 : 0.997070, success_ratio_20 : 0.997070, success_ratio_40 : 0.997070, success_ratio_60 : 0.997070 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.728146, Angle_Error : 124.874451, T_Error : 0.465737, success_ratio_1 : 0.044189, success_ratio_5 : 0.053711, success_ratio_10 : 0.053711, success_ratio_15 : 0.053711, success_ratio_20 : 0.053711, success_ratio_40 : 0.054688, success_ratio_60 : 0.079102 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001508, Angle_Error : 1.040555, T_Error : 0.006570, success_ratio_1 : 0.775391, success_ratio_5 : 0.996094, success_ratio_10 : 0.996094, success_ratio_15 : 0.996094, success_ratio_20 : 0.996094, success_ratio_40 : 0.996094, success_ratio_60 : 0.996094 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.049943, Angle_Error : 1.042840, T_Error : 0.381227, success_ratio_1 : 0.790039, success_ratio_5 : 0.996826, success_ratio_10 : 0.996826, success_ratio_15 : 0.996826, success_ratio_20 : 0.996826, success_ratio_40 : 0.996826, success_ratio_60 : 0.997070 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.000883, Angle_Error : 0.869115, T_Error : 0.006765, success_ratio_1 : 0.771484, success_ratio_5 : 0.998047, success_ratio_10 : 0.998047, success_ratio_15 : 0.998047, success_ratio_20 : 0.998047, success_ratio_40 : 0.998047, success_ratio_60 : 0.998047 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.000964, Angle_Error : 0.877317, T_Error : 0.006499, success_ratio_1 : 0.796875, success_ratio_5 : 0.996094, success_ratio_10 : 0.996094, success_ratio_15 : 0.996094, success_ratio_20 : 0.998047, success_ratio_40 : 0.998047, success_ratio_60 : 0.998047 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.050214, Angle_Error : 1.008360, T_Error : 0.382460, success_ratio_1 : 0.794189, success_ratio_5 : 0.997314, success_ratio_10 : 0.997314, success_ratio_15 : 0.997314, success_ratio_20 : 0.997314, success_ratio_40 : 0.997314, success_ratio_60 : 0.997559 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.052063, Angle_Error : 1.451283, T_Error : 0.381483, success_ratio_1 : 0.742188, success_ratio_5 : 0.996094, success_ratio_10 : 0.996094, success_ratio_15 : 0.996094, success_ratio_20 : 0.996094, success_ratio_40 : 0.996094, success_ratio_60 : 0.996094 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001308, Angle_Error : 0.915799, T_Error : 0.006496, success_ratio_1 : 0.808105, success_ratio_5 : 0.998047, success_ratio_10 : 0.998047, success_ratio_15 : 0.998047, success_ratio_20 : 0.998047, success_ratio_40 : 0.998291, success_ratio_60 : 0.998535 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.705045, Angle_Error : 124.645241, T_Error : 0.368754, success_ratio_1 : 0.032227, success_ratio_5 : 0.048584, success_ratio_10 : 0.048828, success_ratio_15 : 0.048828, success_ratio_20 : 0.048828, success_ratio_40 : 0.051025, success_ratio_60 : 0.088379 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.004781, Angle_Error : 4.235119, T_Error : 0.063226, success_ratio_1 : 0.033447, success_ratio_5 : 0.753906, success_ratio_10 : 0.971680, success_ratio_15 : 0.990479, success_ratio_20 : 0.994873, success_ratio_40 : 0.997070, success_ratio_60 : 0.998291 
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=True, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=True, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=True, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=True, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=True, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=True, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=True, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.446032, Angle_Error : 86.117767, T_Error : 0.216906, success_ratio_1 : 0.000977, success_ratio_5 : 0.022705, success_ratio_10 : 0.088867, success_ratio_15 : 0.147461, success_ratio_20 : 0.191650, success_ratio_40 : 0.315674, success_ratio_60 : 0.405029, time_cost : 0.020372
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=True, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.453098, Angle_Error : 86.756775, T_Error : 0.224024, success_ratio_1 : 0.000977, success_ratio_5 : 0.030762, success_ratio_10 : 0.090820, success_ratio_15 : 0.142578, success_ratio_20 : 0.191650, success_ratio_40 : 0.310547, success_ratio_60 : 0.390381, time_cost : 0.019746
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.708991, Angle_Error : 125.219635, T_Error : 0.369807, success_ratio_1 : 0.034424, success_ratio_5 : 0.048340, success_ratio_10 : 0.048584, success_ratio_15 : 0.048828, success_ratio_20 : 0.048828, success_ratio_40 : 0.050293, success_ratio_60 : 0.080811, time_cost : 0.006352
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.004380, Angle_Error : 4.040362, T_Error : 0.064878, success_ratio_1 : 0.032959, success_ratio_5 : 0.775635, success_ratio_10 : 0.976318, success_ratio_15 : 0.990479, success_ratio_20 : 0.995605, success_ratio_40 : 0.997803, success_ratio_60 : 0.998535, time_cost : 0.054103
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001194, Angle_Error : 0.930030, T_Error : 0.006805, success_ratio_1 : 0.829346, success_ratio_5 : 0.997314, success_ratio_10 : 0.997314, success_ratio_15 : 0.997314, success_ratio_20 : 0.997314, success_ratio_40 : 0.997559, success_ratio_60 : 0.997803, time_cost : 0.057312
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001209, Angle_Error : 0.945840, T_Error : 0.006548, success_ratio_1 : 0.779541, success_ratio_5 : 0.997559, success_ratio_10 : 0.997559, success_ratio_15 : 0.997559, success_ratio_20 : 0.997559, success_ratio_40 : 0.998047, success_ratio_60 : 0.998291, time_cost : 0.058544
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001412, Angle_Error : 1.045132, T_Error : 0.006335, success_ratio_1 : 0.809570, success_ratio_5 : 0.996582, success_ratio_10 : 0.996582, success_ratio_15 : 0.996582, success_ratio_20 : 0.996582, success_ratio_40 : 0.996826, success_ratio_60 : 0.997070, time_cost : 0.056331
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001147, Angle_Error : 0.944308, T_Error : 0.006409, success_ratio_1 : 0.773682, success_ratio_5 : 0.998047, success_ratio_10 : 0.998047, success_ratio_15 : 0.998047, success_ratio_20 : 0.998047, success_ratio_40 : 0.998291, success_ratio_60 : 0.998291, time_cost : 0.056207
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001182, Angle_Error : 0.999149, T_Error : 0.006537, success_ratio_1 : 0.778076, success_ratio_5 : 0.997070, success_ratio_10 : 0.997314, success_ratio_15 : 0.997314, success_ratio_20 : 0.997314, success_ratio_40 : 0.997559, success_ratio_60 : 0.997803, time_cost : 0.058112
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001264, Angle_Error : 0.976340, T_Error : 0.008117, success_ratio_1 : 0.768311, success_ratio_5 : 0.997803, success_ratio_10 : 0.997803, success_ratio_15 : 0.997803, success_ratio_20 : 0.997803, success_ratio_40 : 0.998047, success_ratio_60 : 0.998291, time_cost : 0.057474
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.162094, Angle_Error : 30.953693, T_Error : 0.127196, success_ratio_1 : 0.032959, success_ratio_5 : 0.754150, success_ratio_10 : 0.820068, success_ratio_15 : 0.820801, success_ratio_20 : 0.820801, success_ratio_40 : 0.821533, success_ratio_60 : 0.825195, time_cost : 0.062933
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001124, Angle_Error : 1.002676, T_Error : 0.007610, success_ratio_1 : 0.730713, success_ratio_5 : 0.998047, success_ratio_10 : 0.998047, success_ratio_15 : 0.998047, success_ratio_20 : 0.998047, success_ratio_40 : 0.998291, success_ratio_60 : 0.998779, time_cost : 0.060921
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.006381, Angle_Error : 2.574277, T_Error : 0.028882, success_ratio_1 : 0.251465, success_ratio_5 : 0.991943, success_ratio_10 : 0.992920, success_ratio_15 : 0.992920, success_ratio_20 : 0.992920, success_ratio_40 : 0.993164, success_ratio_60 : 0.993164, time_cost : 0.057333
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.001365, Angle_Error : 1.323238, T_Error : 0.016002, success_ratio_1 : 0.503906, success_ratio_5 : 0.998291, success_ratio_10 : 0.998535, success_ratio_15 : 0.998535, success_ratio_20 : 0.998535, success_ratio_40 : 0.998535, success_ratio_60 : 0.998535, time_cost : 0.055808
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=2, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.003701, Angle_Error : 1.532306, T_Error : 0.007692, success_ratio_1 : 0.739746, success_ratio_5 : 0.993408, success_ratio_10 : 0.993652, success_ratio_15 : 0.993652, success_ratio_20 : 0.993652, success_ratio_40 : 0.993896, success_ratio_60 : 0.993896, time_cost : 0.056256
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=False)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=False)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=False)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=False)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=False)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=False)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=False)
+==Final Test==
+A-->B
+Loss: 0.565615, Angle_Error : 106.560188, T_Error : 0.276748, success_ratio_1 : 0.000000, success_ratio_5 : 0.000000, success_ratio_10 : 0.000000, success_ratio_15 : 0.007812, success_ratio_20 : 0.027344, success_ratio_40 : 0.123047, success_ratio_60 : 0.253906, time_cost : 0.030251
+==Train==
+A-->B
+EPOCH:: 0, Loss: 0.601566, Angle_Error : 110.384369, T_Error : 0.307947
+==Test==
+A-->B
+Loss: 0.565615, Angle_Error : 106.560188, T_Error : 0.276748
+==Final Test==
+A-->B
+Loss: 0.463010, Angle_Error : 88.404465, T_Error : 0.274045, success_ratio_1 : 0.000000, success_ratio_5 : 0.001953, success_ratio_10 : 0.033203, success_ratio_15 : 0.074219, success_ratio_20 : 0.117188, success_ratio_40 : 0.265625, success_ratio_60 : 0.369141, time_cost : 0.032125
+==Train==
+A-->B
+EPOCH:: 1, Loss: 0.507835, Angle_Error : 96.338226, T_Error : 0.289421
+==Test==
+A-->B
+Loss: 0.463010, Angle_Error : 88.404465, T_Error : 0.274045
+==Final Test==
+A-->B
+Loss: 0.432946, Angle_Error : 85.082138, T_Error : 0.258442, success_ratio_1 : 0.000000, success_ratio_5 : 0.003906, success_ratio_10 : 0.013672, success_ratio_15 : 0.037109, success_ratio_20 : 0.083984, success_ratio_40 : 0.298828, success_ratio_60 : 0.423828, time_cost : 0.035536
+==Train==
+A-->B
+EPOCH:: 2, Loss: 0.422493, Angle_Error : 82.499527, T_Error : 0.260111
+==Test==
+A-->B
+Loss: 0.432946, Angle_Error : 85.082138, T_Error : 0.258442
+==Final Test==
+A-->B
+Loss: 0.439918, Angle_Error : 85.574356, T_Error : 0.287574, success_ratio_1 : 0.000000, success_ratio_5 : 0.000000, success_ratio_10 : 0.009766, success_ratio_15 : 0.046875, success_ratio_20 : 0.101562, success_ratio_40 : 0.312500, success_ratio_60 : 0.457031, time_cost : 0.031665
+==Train==
+A-->B
+EPOCH:: 3, Loss: 0.371575, Angle_Error : 74.772568, T_Error : 0.250145
+==Test==
+A-->B
+Loss: 0.439918, Angle_Error : 85.574356, T_Error : 0.287574
+==Final Test==
+A-->B
+Loss: 0.287303, Angle_Error : 60.475761, T_Error : 0.246574, success_ratio_1 : 0.000000, success_ratio_5 : 0.013672, success_ratio_10 : 0.041016, success_ratio_15 : 0.125000, success_ratio_20 : 0.212891, success_ratio_40 : 0.496094, success_ratio_60 : 0.638672, time_cost : 0.031625
+==Train==
+A-->B
+EPOCH:: 4, Loss: 0.329526, Angle_Error : nan, T_Error : 0.242698
+==Test==
+A-->B
+Loss: 0.287303, Angle_Error : 60.475761, T_Error : 0.246574
+==Final Test==
+A-->B
+Loss: 0.226808, Angle_Error : 50.925079, T_Error : 0.241198, success_ratio_1 : 0.001953, success_ratio_5 : 0.015625, success_ratio_10 : 0.080078, success_ratio_15 : 0.191406, success_ratio_20 : 0.277344, success_ratio_40 : 0.591797, success_ratio_60 : 0.722656, time_cost : 0.030963
+==Train==
+A-->B
+EPOCH:: 5, Loss: 0.305855, Angle_Error : nan, T_Error : 0.230509
+==Test==
+A-->B
+Loss: 0.226808, Angle_Error : 50.925079, T_Error : 0.241198
+==Final Test==
+A-->B
+Loss: 0.287164, Angle_Error : 59.906536, T_Error : 0.252656, success_ratio_1 : 0.000000, success_ratio_5 : 0.011719, success_ratio_10 : 0.066406, success_ratio_15 : 0.179688, success_ratio_20 : 0.273438, success_ratio_40 : 0.529297, success_ratio_60 : 0.638672, time_cost : 0.030519
+==Train==
+A-->B
+EPOCH:: 6, Loss: 0.228881, Angle_Error : 51.168743, T_Error : 0.211366
+==Test==
+A-->B
+Loss: 0.287164, Angle_Error : 59.906536, T_Error : 0.252656
+==Final Test==
+A-->B
+Loss: 0.232287, Angle_Error : 51.102715, T_Error : 0.208364, success_ratio_1 : 0.000000, success_ratio_5 : 0.021484, success_ratio_10 : 0.117188, success_ratio_15 : 0.257812, success_ratio_20 : 0.373047, success_ratio_40 : 0.628906, success_ratio_60 : 0.738281, time_cost : 0.031225
+==Train==
+A-->B
+EPOCH:: 7, Loss: 0.210701, Angle_Error : 48.181587, T_Error : 0.208720
+==Test==
+A-->B
+Loss: 0.232287, Angle_Error : 51.102715, T_Error : 0.208364
+==Final Test==
+A-->B
+Loss: 0.216883, Angle_Error : 49.682922, T_Error : 0.189178, success_ratio_1 : 0.000000, success_ratio_5 : 0.017578, success_ratio_10 : 0.076172, success_ratio_15 : 0.220703, success_ratio_20 : 0.320312, success_ratio_40 : 0.611328, success_ratio_60 : 0.732422, time_cost : 0.029961
+==Train==
+A-->B
+EPOCH:: 8, Loss: 0.176729, Angle_Error : 42.331268, T_Error : 0.195109
+==Test==
+A-->B
+Loss: 0.216883, Angle_Error : 49.682922, T_Error : 0.189178
+==Final Test==
+A-->B
+Loss: 0.097950, Angle_Error : 28.638149, T_Error : 0.178239, success_ratio_1 : 0.000000, success_ratio_5 : 0.027344, success_ratio_10 : 0.152344, success_ratio_15 : 0.353516, success_ratio_20 : 0.546875, success_ratio_40 : 0.849609, success_ratio_60 : 0.914062, time_cost : 0.030305
+==Train==
+A-->B
+EPOCH:: 9, Loss: 0.134136, Angle_Error : 35.431206, T_Error : 0.176979
+==Test==
+A-->B
+Loss: 0.097950, Angle_Error : 28.638149, T_Error : 0.178239
+==Final Test==
+A-->B
+Loss: 0.246506, Angle_Error : 55.313446, T_Error : 0.198084, success_ratio_1 : 0.000000, success_ratio_5 : 0.007812, success_ratio_10 : 0.050781, success_ratio_15 : 0.171875, success_ratio_20 : 0.287109, success_ratio_40 : 0.593750, success_ratio_60 : 0.712891, time_cost : 0.029839
+==Train==
+A-->B
+EPOCH:: 10, Loss: 0.228063, Angle_Error : nan, T_Error : 0.211027
+==Test==
+A-->B
+Loss: 0.246506, Angle_Error : 55.313446, T_Error : 0.198084
+==Final Test==
+A-->B
+Loss: 0.145639, Angle_Error : 36.429489, T_Error : 0.188109, success_ratio_1 : 0.001953, success_ratio_5 : 0.021484, success_ratio_10 : 0.126953, success_ratio_15 : 0.337891, success_ratio_20 : 0.476562, success_ratio_40 : 0.732422, success_ratio_60 : 0.828125, time_cost : 0.030866
+==Train==
+A-->B
+EPOCH:: 11, Loss: 0.179452, Angle_Error : 43.146290, T_Error : 0.190214
+==Test==
+A-->B
+Loss: 0.145639, Angle_Error : 36.429489, T_Error : 0.188109
+==Final Test==
+A-->B
+Loss: 0.138908, Angle_Error : 35.132980, T_Error : 0.222082, success_ratio_1 : 0.000000, success_ratio_5 : 0.015625, success_ratio_10 : 0.123047, success_ratio_15 : 0.273438, success_ratio_20 : 0.433594, success_ratio_40 : 0.792969, success_ratio_60 : 0.861328, time_cost : 0.030938
+==Train==
+A-->B
+EPOCH:: 12, Loss: 0.078030, Angle_Error : 24.737700, T_Error : 0.161967
+==Test==
+A-->B
+Loss: 0.138908, Angle_Error : 35.132980, T_Error : 0.222082
+==Final Test==
+A-->B
+Loss: 0.076520, Angle_Error : 25.202404, T_Error : 0.166927, success_ratio_1 : 0.000000, success_ratio_5 : 0.033203, success_ratio_10 : 0.173828, success_ratio_15 : 0.355469, success_ratio_20 : 0.560547, success_ratio_40 : 0.859375, success_ratio_60 : 0.941406, time_cost : 0.030903
+==Train==
+A-->B
+EPOCH:: 13, Loss: 0.079641, Angle_Error : 24.893478, T_Error : 0.159848
+==Test==
+A-->B
+Loss: 0.076520, Angle_Error : 25.202404, T_Error : 0.166927
+==Final Test==
+A-->B
+Loss: 0.263767, Angle_Error : 55.795555, T_Error : 0.239059, success_ratio_1 : 0.000000, success_ratio_5 : 0.021484, success_ratio_10 : 0.083984, success_ratio_15 : 0.166016, success_ratio_20 : 0.294922, success_ratio_40 : 0.603516, success_ratio_60 : 0.710938, time_cost : 0.030307
+==Train==
+A-->B
+EPOCH:: 14, Loss: 0.179277, Angle_Error : 41.205589, T_Error : 0.189454
+==Test==
+A-->B
+Loss: 0.263767, Angle_Error : 55.795555, T_Error : 0.239059
+==Final Test==
+A-->B
+Loss: 0.059289, Angle_Error : 21.727196, T_Error : 0.140275, success_ratio_1 : 0.000000, success_ratio_5 : 0.033203, success_ratio_10 : 0.232422, success_ratio_15 : 0.490234, success_ratio_20 : 0.646484, success_ratio_40 : 0.904297, success_ratio_60 : 0.951172, time_cost : 0.031051
+==Train==
+A-->B
+EPOCH:: 15, Loss: 0.113755, Angle_Error : 30.625347, T_Error : 0.171169
+==Test==
+A-->B
+Loss: 0.059289, Angle_Error : 21.727196, T_Error : 0.140275
+==Final Test==
+A-->B
+Loss: 0.093000, Angle_Error : 27.815430, T_Error : 0.171832, success_ratio_1 : 0.000000, success_ratio_5 : 0.031250, success_ratio_10 : 0.207031, success_ratio_15 : 0.365234, success_ratio_20 : 0.554688, success_ratio_40 : 0.843750, success_ratio_60 : 0.919922, time_cost : 0.030230
+==Train==
+A-->B
+EPOCH:: 16, Loss: 0.118652, Angle_Error : 31.934135, T_Error : 0.177692
+==Test==
+A-->B
+Loss: 0.093000, Angle_Error : 27.815430, T_Error : 0.171832
+==Final Test==
+A-->B
+Loss: 0.059099, Angle_Error : 20.472383, T_Error : 0.147242, success_ratio_1 : 0.000000, success_ratio_5 : 0.068359, success_ratio_10 : 0.306641, success_ratio_15 : 0.560547, success_ratio_20 : 0.714844, success_ratio_40 : 0.916016, success_ratio_60 : 0.943359, time_cost : 0.030418
+==Train==
+A-->B
+EPOCH:: 17, Loss: 0.054450, Angle_Error : 20.239391, T_Error : 0.147510
+==Test==
+A-->B
+Loss: 0.059099, Angle_Error : 20.472383, T_Error : 0.147242
+==Final Test==
+A-->B
+Loss: 0.032544, Angle_Error : 15.674685, T_Error : 0.139175, success_ratio_1 : 0.000000, success_ratio_5 : 0.046875, success_ratio_10 : 0.343750, success_ratio_15 : 0.619141, success_ratio_20 : 0.767578, success_ratio_40 : 0.976562, success_ratio_60 : 0.988281, time_cost : 0.030986
+==Train==
+A-->B
+EPOCH:: 18, Loss: 0.061737, Angle_Error : 21.266411, T_Error : 0.145235
+==Test==
+A-->B
+Loss: 0.032544, Angle_Error : 15.674685, T_Error : 0.139175
+==Final Test==
+A-->B
+Loss: 0.073031, Angle_Error : 23.842670, T_Error : 0.151980, success_ratio_1 : 0.000000, success_ratio_5 : 0.041016, success_ratio_10 : 0.207031, success_ratio_15 : 0.464844, success_ratio_20 : 0.654297, success_ratio_40 : 0.892578, success_ratio_60 : 0.933594, time_cost : 0.032264
+==Train==
+A-->B
+EPOCH:: 19, Loss: 0.065816, Angle_Error : 21.405102, T_Error : 0.148643
+==Test==
+A-->B
+Loss: 0.073031, Angle_Error : 23.842670, T_Error : 0.151980
+==Final Test==
+A-->B
+Loss: 0.034213, Angle_Error : 15.405045, T_Error : 0.146053, success_ratio_1 : 0.000000, success_ratio_5 : 0.052734, success_ratio_10 : 0.343750, success_ratio_15 : 0.642578, success_ratio_20 : 0.818359, success_ratio_40 : 0.972656, success_ratio_60 : 0.984375, time_cost : 0.031415
+==Train==
+A-->B
+EPOCH:: 20, Loss: 0.067549, Angle_Error : 22.523533, T_Error : 0.163210
+==Test==
+A-->B
+Loss: 0.034213, Angle_Error : 15.405045, T_Error : 0.146053
+==Final Test==
+A-->B
+Loss: 0.087148, Angle_Error : 26.488806, T_Error : 0.167187, success_ratio_1 : 0.000000, success_ratio_5 : 0.037109, success_ratio_10 : 0.212891, success_ratio_15 : 0.406250, success_ratio_20 : 0.580078, success_ratio_40 : 0.861328, success_ratio_60 : 0.919922, time_cost : 0.030887
+==Train==
+A-->B
+EPOCH:: 21, Loss: 0.066125, Angle_Error : 21.897449, T_Error : 0.145838
+==Test==
+A-->B
+Loss: 0.087148, Angle_Error : 26.488806, T_Error : 0.167187
+==Final Test==
+A-->B
+Loss: 0.025043, Angle_Error : 13.660933, T_Error : 0.125088, success_ratio_1 : 0.001953, success_ratio_5 : 0.058594, success_ratio_10 : 0.390625, success_ratio_15 : 0.710938, success_ratio_20 : 0.851562, success_ratio_40 : 0.984375, success_ratio_60 : 0.988281, time_cost : 0.031766
+==Train==
+A-->B
+EPOCH:: 22, Loss: 0.037482, Angle_Error : 16.431025, T_Error : 0.133292
+==Test==
+A-->B
+Loss: 0.025043, Angle_Error : 13.660933, T_Error : 0.125088
+==Final Test==
+A-->B
+Loss: 0.093314, Angle_Error : 28.289454, T_Error : 0.168082, success_ratio_1 : 0.000000, success_ratio_5 : 0.027344, success_ratio_10 : 0.152344, success_ratio_15 : 0.347656, success_ratio_20 : 0.539062, success_ratio_40 : 0.855469, success_ratio_60 : 0.921875, time_cost : 0.030179
+==Train==
+A-->B
+EPOCH:: 23, Loss: 0.082134, Angle_Error : 24.464279, T_Error : 0.139279
+==Test==
+A-->B
+Loss: 0.093314, Angle_Error : 28.289454, T_Error : 0.168082
+==Final Test==
+A-->B
+Loss: 0.068099, Angle_Error : 23.286333, T_Error : 0.145169, success_ratio_1 : 0.000000, success_ratio_5 : 0.031250, success_ratio_10 : 0.224609, success_ratio_15 : 0.464844, success_ratio_20 : 0.644531, success_ratio_40 : 0.906250, success_ratio_60 : 0.943359, time_cost : 0.030897
+==Train==
+A-->B
+EPOCH:: 24, Loss: 0.055017, Angle_Error : 20.114429, T_Error : 0.138942
+==Test==
+A-->B
+Loss: 0.068099, Angle_Error : 23.286333, T_Error : 0.145169
+==Final Test==
+A-->B
+Loss: 0.026529, Angle_Error : 14.079863, T_Error : 0.120818, success_ratio_1 : 0.000000, success_ratio_5 : 0.078125, success_ratio_10 : 0.396484, success_ratio_15 : 0.714844, success_ratio_20 : 0.847656, success_ratio_40 : 0.976562, success_ratio_60 : 0.994141, time_cost : 0.031227
+==Train==
+A-->B
+EPOCH:: 25, Loss: 0.027346, Angle_Error : 14.196605, T_Error : 0.122012
+==Test==
+A-->B
+Loss: 0.026529, Angle_Error : 14.079863, T_Error : 0.120818
+==Final Test==
+A-->B
+Loss: 0.034521, Angle_Error : 16.086201, T_Error : 0.150734, success_ratio_1 : 0.000000, success_ratio_5 : 0.027344, success_ratio_10 : 0.291016, success_ratio_15 : 0.593750, success_ratio_20 : 0.779297, success_ratio_40 : 0.980469, success_ratio_60 : 0.986328, time_cost : 0.031408
+==Train==
+A-->B
+EPOCH:: 26, Loss: 0.084915, Angle_Error : 25.164949, T_Error : 0.151930
+==Test==
+A-->B
+Loss: 0.034521, Angle_Error : 16.086201, T_Error : 0.150734
+==Final Test==
+A-->B
+Loss: 0.043393, Angle_Error : 16.985535, T_Error : 0.147597, success_ratio_1 : 0.001953, success_ratio_5 : 0.060547, success_ratio_10 : 0.376953, success_ratio_15 : 0.634766, success_ratio_20 : 0.796875, success_ratio_40 : 0.947266, success_ratio_60 : 0.970703, time_cost : 0.032900
+==Train==
+A-->B
+EPOCH:: 27, Loss: 0.072159, Angle_Error : 23.040119, T_Error : 0.144949
+==Test==
+A-->B
+Loss: 0.043393, Angle_Error : 16.985535, T_Error : 0.147597
+==Final Test==
+A-->B
+Loss: 0.037803, Angle_Error : 16.780897, T_Error : 0.124898, success_ratio_1 : 0.000000, success_ratio_5 : 0.076172, success_ratio_10 : 0.322266, success_ratio_15 : 0.619141, success_ratio_20 : 0.781250, success_ratio_40 : 0.951172, success_ratio_60 : 0.972656, time_cost : 0.031169
+==Train==
+A-->B
+EPOCH:: 28, Loss: 0.046973, Angle_Error : 17.825584, T_Error : 0.133653
+==Test==
+A-->B
+Loss: 0.037803, Angle_Error : 16.780897, T_Error : 0.124898
+==Final Test==
+A-->B
+Loss: 0.018718, Angle_Error : 11.826659, T_Error : 0.113527, success_ratio_1 : 0.001953, success_ratio_5 : 0.091797, success_ratio_10 : 0.476562, success_ratio_15 : 0.806641, success_ratio_20 : 0.917969, success_ratio_40 : 0.988281, success_ratio_60 : 0.994141, time_cost : 0.031512
+==Train==
+A-->B
+EPOCH:: 29, Loss: 0.026432, Angle_Error : 13.429064, T_Error : 0.116437
+==Test==
+A-->B
+Loss: 0.018718, Angle_Error : 11.826659, T_Error : 0.113527
+==Final Test==
+A-->B
+Loss: 0.277078, Angle_Error : 58.747787, T_Error : 0.216866, success_ratio_1 : 0.000000, success_ratio_5 : 0.023438, success_ratio_10 : 0.101562, success_ratio_15 : 0.212891, success_ratio_20 : 0.312500, success_ratio_40 : 0.580078, success_ratio_60 : 0.662109, time_cost : 0.031600
+==Train==
+A-->B
+EPOCH:: 30, Loss: 0.040887, Angle_Error : 16.227291, T_Error : 0.122850
+==Test==
+A-->B
+Loss: 0.277078, Angle_Error : 58.747787, T_Error : 0.216866
+==Final Test==
+A-->B
+Loss: 0.021638, Angle_Error : 12.166037, T_Error : 0.109642, success_ratio_1 : 0.001953, success_ratio_5 : 0.103516, success_ratio_10 : 0.507812, success_ratio_15 : 0.791016, success_ratio_20 : 0.919922, success_ratio_40 : 0.984375, success_ratio_60 : 0.986328, time_cost : 0.031451
+==Train==
+A-->B
+EPOCH:: 31, Loss: 0.034060, Angle_Error : 15.018738, T_Error : 0.122318
+==Test==
+A-->B
+Loss: 0.021638, Angle_Error : 12.166037, T_Error : 0.109642
+==Final Test==
+A-->B
+Loss: 0.465588, Angle_Error : 91.233559, T_Error : 0.268975, success_ratio_1 : 0.000000, success_ratio_5 : 0.001953, success_ratio_10 : 0.013672, success_ratio_15 : 0.035156, success_ratio_20 : 0.072266, success_ratio_40 : 0.238281, success_ratio_60 : 0.404297, time_cost : 0.031327
+==Train==
+A-->B
+EPOCH:: 32, Loss: 0.037751, Angle_Error : 14.761734, T_Error : 0.119808
+==Test==
+A-->B
+Loss: 0.465588, Angle_Error : 91.233559, T_Error : 0.268975
+==Final Test==
+A-->B
+Loss: 0.019995, Angle_Error : 11.609467, T_Error : 0.108313, success_ratio_1 : 0.003906, success_ratio_5 : 0.130859, success_ratio_10 : 0.550781, success_ratio_15 : 0.814453, success_ratio_20 : 0.925781, success_ratio_40 : 0.982422, success_ratio_60 : 0.992188, time_cost : 0.030956
+==Train==
+A-->B
+EPOCH:: 33, Loss: 0.044389, Angle_Error : 16.819233, T_Error : 0.129240
+==Test==
+A-->B
+Loss: 0.019995, Angle_Error : 11.609467, T_Error : 0.108313
+==Final Test==
+A-->B
+Loss: 0.015066, Angle_Error : 10.396370, T_Error : 0.102739, success_ratio_1 : 0.000000, success_ratio_5 : 0.138672, success_ratio_10 : 0.589844, success_ratio_15 : 0.857422, success_ratio_20 : 0.955078, success_ratio_40 : 0.990234, success_ratio_60 : 0.992188, time_cost : 0.032323
+==Train==
+A-->B
+EPOCH:: 34, Loss: 0.016935, Angle_Error : 10.742107, T_Error : 0.107570
+==Test==
+A-->B
+Loss: 0.015066, Angle_Error : 10.396370, T_Error : 0.102739
+==Final Test==
+A-->B
+Loss: 0.024302, Angle_Error : 12.886189, T_Error : 0.105668, success_ratio_1 : 0.000000, success_ratio_5 : 0.074219, success_ratio_10 : 0.511719, success_ratio_15 : 0.802734, success_ratio_20 : 0.900391, success_ratio_40 : 0.974609, success_ratio_60 : 0.986328, time_cost : 0.031396
+==Train==
+A-->B
+EPOCH:: 35, Loss: 0.027718, Angle_Error : 13.174479, T_Error : 0.115831
+==Test==
+A-->B
+Loss: 0.024302, Angle_Error : 12.886189, T_Error : 0.105668
+==Final Test==
+A-->B
+Loss: 0.014100, Angle_Error : 9.984576, T_Error : 0.106125, success_ratio_1 : 0.000000, success_ratio_5 : 0.148438, success_ratio_10 : 0.623047, success_ratio_15 : 0.882812, success_ratio_20 : 0.953125, success_ratio_40 : 0.992188, success_ratio_60 : 0.996094, time_cost : 0.033478
+==Train==
+A-->B
+EPOCH:: 36, Loss: 0.036194, Angle_Error : 15.052840, T_Error : 0.117614
+==Test==
+A-->B
+Loss: 0.014100, Angle_Error : 9.984576, T_Error : 0.106125
+==Final Test==
+A-->B
+Loss: 0.057352, Angle_Error : 19.960983, T_Error : 0.139871, success_ratio_1 : 0.000000, success_ratio_5 : 0.070312, success_ratio_10 : 0.333984, success_ratio_15 : 0.599609, success_ratio_20 : 0.746094, success_ratio_40 : 0.931641, success_ratio_60 : 0.951172, time_cost : 0.030815
+==Train==
+A-->B
+EPOCH:: 37, Loss: 0.023227, Angle_Error : 12.002493, T_Error : 0.109780
+==Test==
+A-->B
+Loss: 0.057352, Angle_Error : 19.960983, T_Error : 0.139871
+==Final Test==
+A-->B
+Loss: 0.032037, Angle_Error : 14.957093, T_Error : 0.117027, success_ratio_1 : 0.000000, success_ratio_5 : 0.083984, success_ratio_10 : 0.435547, success_ratio_15 : 0.677734, success_ratio_20 : 0.837891, success_ratio_40 : 0.964844, success_ratio_60 : 0.982422, time_cost : 0.031218
+==Train==
+A-->B
+EPOCH:: 38, Loss: 0.030538, Angle_Error : 13.785594, T_Error : 0.120042
+==Test==
+A-->B
+Loss: 0.032037, Angle_Error : 14.957093, T_Error : 0.117027
+==Final Test==
+A-->B
+Loss: 0.012190, Angle_Error : 9.079062, T_Error : 0.099776, success_ratio_1 : 0.001953, success_ratio_5 : 0.218750, success_ratio_10 : 0.669922, success_ratio_15 : 0.900391, success_ratio_20 : 0.978516, success_ratio_40 : 0.996094, success_ratio_60 : 0.998047, time_cost : 0.031406
+==Train==
+A-->B
+EPOCH:: 39, Loss: 0.015566, Angle_Error : 10.211967, T_Error : 0.106304
+==Test==
+A-->B
+Loss: 0.012190, Angle_Error : 9.079062, T_Error : 0.099776
+==Final Test==
+A-->B
+Loss: 0.012187, Angle_Error : 9.034367, T_Error : 0.099485, success_ratio_1 : 0.001953, success_ratio_5 : 0.207031, success_ratio_10 : 0.693359, success_ratio_15 : 0.904297, success_ratio_20 : 0.980469, success_ratio_40 : 0.992188, success_ratio_60 : 0.996094, time_cost : 0.031575
+==Train==
+A-->B
+EPOCH:: 40, Loss: 0.013865, Angle_Error : 9.519176, T_Error : 0.102084
+==Test==
+A-->B
+Loss: 0.012187, Angle_Error : 9.034367, T_Error : 0.099485
+==Final Test==
+A-->B
+Loss: 0.011510, Angle_Error : 8.661614, T_Error : 0.098213, success_ratio_1 : 0.001953, success_ratio_5 : 0.220703, success_ratio_10 : 0.734375, success_ratio_15 : 0.927734, success_ratio_20 : 0.980469, success_ratio_40 : 0.990234, success_ratio_60 : 0.996094, time_cost : 0.031544
+==Train==
+A-->B
+EPOCH:: 41, Loss: 0.013647, Angle_Error : 9.354001, T_Error : 0.101325
+==Test==
+A-->B
+Loss: 0.011510, Angle_Error : 8.661614, T_Error : 0.098213
+==Final Test==
+A-->B
+Loss: 0.011689, Angle_Error : 8.736624, T_Error : 0.097288, success_ratio_1 : 0.003906, success_ratio_5 : 0.228516, success_ratio_10 : 0.730469, success_ratio_15 : 0.923828, success_ratio_20 : 0.978516, success_ratio_40 : 0.992188, success_ratio_60 : 0.996094, time_cost : 0.031724
+==Train==
+A-->B
+EPOCH:: 42, Loss: 0.014716, Angle_Error : 9.647606, T_Error : 0.100878
+==Test==
+A-->B
+Loss: 0.011689, Angle_Error : 8.736624, T_Error : 0.097288
+==Final Test==
+A-->B
+Loss: 0.011180, Angle_Error : 8.600876, T_Error : 0.092910, success_ratio_1 : 0.000000, success_ratio_5 : 0.224609, success_ratio_10 : 0.724609, success_ratio_15 : 0.925781, success_ratio_20 : 0.972656, success_ratio_40 : 0.994141, success_ratio_60 : 0.996094, time_cost : 0.031951
+==Train==
+A-->B
+EPOCH:: 43, Loss: 0.009813, Angle_Error : 8.197622, T_Error : 0.094624
+==Test==
+A-->B
+Loss: 0.011180, Angle_Error : 8.600876, T_Error : 0.092910
+==Final Test==
+A-->B
+Loss: 0.010006, Angle_Error : 7.989816, T_Error : 0.091997, success_ratio_1 : 0.000000, success_ratio_5 : 0.279297, success_ratio_10 : 0.798828, success_ratio_15 : 0.951172, success_ratio_20 : 0.982422, success_ratio_40 : 0.992188, success_ratio_60 : 0.994141, time_cost : 0.031860
+==Train==
+A-->B
+EPOCH:: 44, Loss: 0.009261, Angle_Error : 7.790334, T_Error : 0.092019
+==Test==
+A-->B
+Loss: 0.010006, Angle_Error : 7.989816, T_Error : 0.091997
+==Final Test==
+A-->B
+Loss: 0.012223, Angle_Error : 8.575879, T_Error : 0.100697, success_ratio_1 : 0.001953, success_ratio_5 : 0.267578, success_ratio_10 : 0.734375, success_ratio_15 : 0.929688, success_ratio_20 : 0.968750, success_ratio_40 : 0.990234, success_ratio_60 : 0.994141, time_cost : 0.031297
+==Train==
+A-->B
+EPOCH:: 45, Loss: 0.008805, Angle_Error : 7.603399, T_Error : 0.090423
+==Test==
+A-->B
+Loss: 0.012223, Angle_Error : 8.575879, T_Error : 0.100697
+==Final Test==
+A-->B
+Loss: 0.010202, Angle_Error : 8.368174, T_Error : 0.093305, success_ratio_1 : 0.001953, success_ratio_5 : 0.275391, success_ratio_10 : 0.740234, success_ratio_15 : 0.919922, success_ratio_20 : 0.966797, success_ratio_40 : 0.996094, success_ratio_60 : 0.998047, time_cost : 0.031202
+==Train==
+A-->B
+EPOCH:: 46, Loss: 0.008521, Angle_Error : 7.438066, T_Error : 0.090593
+==Test==
+A-->B
+Loss: 0.010202, Angle_Error : 8.368174, T_Error : 0.093305
+==Final Test==
+A-->B
+Loss: 0.013390, Angle_Error : 9.549223, T_Error : 0.102123, success_ratio_1 : 0.001953, success_ratio_5 : 0.242188, success_ratio_10 : 0.662109, success_ratio_15 : 0.853516, success_ratio_20 : 0.949219, success_ratio_40 : 0.994141, success_ratio_60 : 0.996094, time_cost : 0.031383
+==Train==
+A-->B
+EPOCH:: 47, Loss: 0.025893, Angle_Error : 11.449081, T_Error : 0.100599
+==Test==
+A-->B
+Loss: 0.013390, Angle_Error : 9.549223, T_Error : 0.102123
+==Final Test==
+A-->B
+Loss: 0.010557, Angle_Error : 8.224580, T_Error : 0.092578, success_ratio_1 : 0.003906, success_ratio_5 : 0.283203, success_ratio_10 : 0.750000, success_ratio_15 : 0.927734, success_ratio_20 : 0.976562, success_ratio_40 : 0.992188, success_ratio_60 : 0.994141, time_cost : 0.031500
+==Train==
+A-->B
+EPOCH:: 48, Loss: 0.015425, Angle_Error : 9.753265, T_Error : 0.098347
+==Test==
+A-->B
+Loss: 0.010557, Angle_Error : 8.224580, T_Error : 0.092578
+==Final Test==
+A-->B
+Loss: 0.009575, Angle_Error : 7.687119, T_Error : 0.090683, success_ratio_1 : 0.003906, success_ratio_5 : 0.328125, success_ratio_10 : 0.787109, success_ratio_15 : 0.945312, success_ratio_20 : 0.978516, success_ratio_40 : 0.994141, success_ratio_60 : 0.996094, time_cost : 0.031676
+==Train==
+A-->B
+EPOCH:: 49, Loss: 0.009680, Angle_Error : 7.886741, T_Error : 0.090427
+==Test==
+A-->B
+Loss: 0.009575, Angle_Error : 7.687119, T_Error : 0.090683
+==Final Test==
+A-->B
+Loss: 0.011851, Angle_Error : 8.797167, T_Error : 0.095357, success_ratio_1 : 0.003906, success_ratio_5 : 0.273438, success_ratio_10 : 0.714844, success_ratio_15 : 0.888672, success_ratio_20 : 0.958984, success_ratio_40 : 0.994141, success_ratio_60 : 0.996094, time_cost : 0.030945
+==Train==
+A-->B
+EPOCH:: 50, Loss: 0.018971, Angle_Error : 10.647044, T_Error : 0.100673
+==Test==
+A-->B
+Loss: 0.011851, Angle_Error : 8.797167, T_Error : 0.095357
+==Final Test==
+A-->B
+Loss: 0.020523, Angle_Error : 11.108722, T_Error : 0.107674, success_ratio_1 : 0.001953, success_ratio_5 : 0.218750, success_ratio_10 : 0.619141, success_ratio_15 : 0.833984, success_ratio_20 : 0.917969, success_ratio_40 : 0.990234, success_ratio_60 : 0.990234, time_cost : 0.031336
+==Train==
+A-->B
+EPOCH:: 51, Loss: 0.013733, Angle_Error : 8.991333, T_Error : 0.093792
+==Test==
+A-->B
+Loss: 0.020523, Angle_Error : 11.108722, T_Error : 0.107674
+==Final Test==
+A-->B
+Loss: 0.008740, Angle_Error : 7.323847, T_Error : 0.088677, success_ratio_1 : 0.007812, success_ratio_5 : 0.367188, success_ratio_10 : 0.810547, success_ratio_15 : 0.955078, success_ratio_20 : 0.984375, success_ratio_40 : 0.994141, success_ratio_60 : 0.996094, time_cost : 0.031497
+==Train==
+A-->B
+EPOCH:: 52, Loss: 0.009535, Angle_Error : 7.817443, T_Error : 0.094088
+==Test==
+A-->B
+Loss: 0.008740, Angle_Error : 7.323847, T_Error : 0.088677
+==Final Test==
+A-->B
+Loss: 0.008694, Angle_Error : 7.492764, T_Error : 0.088416, success_ratio_1 : 0.005859, success_ratio_5 : 0.332031, success_ratio_10 : 0.808594, success_ratio_15 : 0.945312, success_ratio_20 : 0.978516, success_ratio_40 : 0.996094, success_ratio_60 : 0.998047, time_cost : 0.031216
+==Train==
+A-->B
+EPOCH:: 53, Loss: 0.007391, Angle_Error : 6.847314, T_Error : 0.087328
+==Test==
+A-->B
+Loss: 0.008694, Angle_Error : 7.492764, T_Error : 0.088416
+==Final Test==
+A-->B
+Loss: 0.008000, Angle_Error : 7.089517, T_Error : 0.085695, success_ratio_1 : 0.001953, success_ratio_5 : 0.382812, success_ratio_10 : 0.824219, success_ratio_15 : 0.955078, success_ratio_20 : 0.986328, success_ratio_40 : 0.994141, success_ratio_60 : 1.000000, time_cost : 0.031092
+==Train==
+A-->B
+EPOCH:: 54, Loss: 0.006967, Angle_Error : 6.651571, T_Error : 0.085065
+==Test==
+A-->B
+Loss: 0.008000, Angle_Error : 7.089517, T_Error : 0.085695
+==Final Test==
+A-->B
+Loss: 0.007787, Angle_Error : 7.054101, T_Error : 0.084257, success_ratio_1 : 0.001953, success_ratio_5 : 0.347656, success_ratio_10 : 0.845703, success_ratio_15 : 0.962891, success_ratio_20 : 0.984375, success_ratio_40 : 0.996094, success_ratio_60 : 0.998047, time_cost : 0.031576
+==Train==
+A-->B
+EPOCH:: 55, Loss: 0.007078, Angle_Error : 6.696077, T_Error : 0.084427
+==Test==
+A-->B
+Loss: 0.007787, Angle_Error : 7.054101, T_Error : 0.084257
+==Final Test==
+A-->B
+Loss: 0.006986, Angle_Error : 6.597342, T_Error : 0.082245, success_ratio_1 : 0.007812, success_ratio_5 : 0.419922, success_ratio_10 : 0.863281, success_ratio_15 : 0.970703, success_ratio_20 : 0.986328, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031399
+==Train==
+A-->B
+EPOCH:: 56, Loss: 0.006595, Angle_Error : 6.428657, T_Error : 0.082891
+==Test==
+A-->B
+Loss: 0.006986, Angle_Error : 6.597342, T_Error : 0.082245
+==Final Test==
+A-->B
+Loss: 0.007691, Angle_Error : 6.880411, T_Error : 0.083361, success_ratio_1 : 0.011719, success_ratio_5 : 0.394531, success_ratio_10 : 0.835938, success_ratio_15 : 0.958984, success_ratio_20 : 0.984375, success_ratio_40 : 0.996094, success_ratio_60 : 0.998047, time_cost : 0.031179
+==Train==
+A-->B
+EPOCH:: 57, Loss: 0.009295, Angle_Error : nan, T_Error : 0.084646
+==Test==
+A-->B
+Loss: 0.007691, Angle_Error : 6.880411, T_Error : 0.083361
+==Final Test==
+A-->B
+Loss: 0.037533, Angle_Error : 15.374454, T_Error : 0.099464, success_ratio_1 : 0.000000, success_ratio_5 : 0.148438, success_ratio_10 : 0.488281, success_ratio_15 : 0.726562, success_ratio_20 : 0.832031, success_ratio_40 : 0.957031, success_ratio_60 : 0.972656, time_cost : 0.030793
+==Train==
+A-->B
+EPOCH:: 58, Loss: 0.011212, Angle_Error : 7.612025, T_Error : 0.086375
+==Test==
+A-->B
+Loss: 0.037533, Angle_Error : 15.374454, T_Error : 0.099464
+==Final Test==
+A-->B
+Loss: 0.014157, Angle_Error : 9.636594, T_Error : 0.096959, success_ratio_1 : 0.003906, success_ratio_5 : 0.226562, success_ratio_10 : 0.642578, success_ratio_15 : 0.867188, success_ratio_20 : 0.943359, success_ratio_40 : 0.990234, success_ratio_60 : 0.994141, time_cost : 0.031085
+==Train==
+A-->B
+EPOCH:: 59, Loss: 0.018374, Angle_Error : 10.001503, T_Error : 0.096486
+==Test==
+A-->B
+Loss: 0.014157, Angle_Error : 9.636594, T_Error : 0.096959
+==Final Test==
+A-->B
+Loss: 0.007706, Angle_Error : 7.048979, T_Error : 0.084342, success_ratio_1 : 0.003906, success_ratio_5 : 0.361328, success_ratio_10 : 0.818359, success_ratio_15 : 0.953125, success_ratio_20 : 0.986328, success_ratio_40 : 0.996094, success_ratio_60 : 0.998047, time_cost : 0.031007
+==Train==
+A-->B
+EPOCH:: 60, Loss: 0.007759, Angle_Error : 7.080267, T_Error : 0.085624
+==Test==
+A-->B
+Loss: 0.007706, Angle_Error : 7.048979, T_Error : 0.084342
+==Final Test==
+A-->B
+Loss: 0.007127, Angle_Error : 6.690679, T_Error : 0.082129, success_ratio_1 : 0.003906, success_ratio_5 : 0.402344, success_ratio_10 : 0.861328, success_ratio_15 : 0.964844, success_ratio_20 : 0.984375, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.030889
+==Train==
+A-->B
+EPOCH:: 61, Loss: 0.006052, Angle_Error : 6.154388, T_Error : 0.080987
+==Test==
+A-->B
+Loss: 0.007127, Angle_Error : 6.690679, T_Error : 0.082129
+==Final Test==
+A-->B
+Loss: 0.006821, Angle_Error : 6.504520, T_Error : 0.079424, success_ratio_1 : 0.009766, success_ratio_5 : 0.423828, success_ratio_10 : 0.863281, success_ratio_15 : 0.960938, success_ratio_20 : 0.986328, success_ratio_40 : 0.998047, success_ratio_60 : 0.998047, time_cost : 0.031050
+==Train==
+A-->B
+EPOCH:: 62, Loss: 0.005766, Angle_Error : 5.969626, T_Error : 0.079084
+==Test==
+A-->B
+Loss: 0.006821, Angle_Error : 6.504520, T_Error : 0.079424
+==Final Test==
+A-->B
+Loss: 0.006579, Angle_Error : 6.290323, T_Error : 0.080716, success_ratio_1 : 0.011719, success_ratio_5 : 0.453125, success_ratio_10 : 0.884766, success_ratio_15 : 0.972656, success_ratio_20 : 0.988281, success_ratio_40 : 0.998047, success_ratio_60 : 0.998047, time_cost : 0.030213
+==Train==
+A-->B
+EPOCH:: 63, Loss: 0.005821, Angle_Error : 5.998463, T_Error : 0.078713
+==Test==
+A-->B
+Loss: 0.006579, Angle_Error : 6.290323, T_Error : 0.080716
+==Final Test==
+A-->B
+Loss: 0.006462, Angle_Error : 6.307239, T_Error : 0.078507, success_ratio_1 : 0.013672, success_ratio_5 : 0.449219, success_ratio_10 : 0.869141, success_ratio_15 : 0.970703, success_ratio_20 : 0.986328, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031145
+==Train==
+A-->B
+EPOCH:: 64, Loss: 0.005774, Angle_Error : 5.953130, T_Error : 0.078243
+==Test==
+A-->B
+Loss: 0.006462, Angle_Error : 6.307239, T_Error : 0.078507
+==Final Test==
+A-->B
+Loss: 0.022331, Angle_Error : 12.437706, T_Error : 0.116392, success_ratio_1 : 0.000000, success_ratio_5 : 0.126953, success_ratio_10 : 0.496094, success_ratio_15 : 0.767578, success_ratio_20 : 0.886719, success_ratio_40 : 0.982422, success_ratio_60 : 0.990234, time_cost : 0.031299
+==Train==
+A-->B
+EPOCH:: 65, Loss: 0.017723, Angle_Error : 8.835026, T_Error : 0.086001
+==Test==
+A-->B
+Loss: 0.022331, Angle_Error : 12.437706, T_Error : 0.116392
+==Final Test==
+A-->B
+Loss: 0.008604, Angle_Error : 7.600161, T_Error : 0.086856, success_ratio_1 : 0.005859, success_ratio_5 : 0.322266, success_ratio_10 : 0.789062, success_ratio_15 : 0.949219, success_ratio_20 : 0.980469, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.030960
+==Train==
+A-->B
+EPOCH:: 66, Loss: 0.023642, Angle_Error : 11.299121, T_Error : 0.098739
+==Test==
+A-->B
+Loss: 0.008604, Angle_Error : 7.600161, T_Error : 0.086856
+==Final Test==
+A-->B
+Loss: 0.007387, Angle_Error : 6.984335, T_Error : 0.082196, success_ratio_1 : 0.007812, success_ratio_5 : 0.363281, success_ratio_10 : 0.833984, success_ratio_15 : 0.964844, success_ratio_20 : 0.986328, success_ratio_40 : 0.994141, success_ratio_60 : 1.000000, time_cost : 0.030882
+==Train==
+A-->B
+EPOCH:: 67, Loss: 0.009225, Angle_Error : 7.352796, T_Error : 0.085538
+==Test==
+A-->B
+Loss: 0.007387, Angle_Error : 6.984335, T_Error : 0.082196
+==Final Test==
+A-->B
+Loss: 0.008612, Angle_Error : 7.122384, T_Error : 0.082456, success_ratio_1 : 0.005859, success_ratio_5 : 0.388672, success_ratio_10 : 0.818359, success_ratio_15 : 0.962891, success_ratio_20 : 0.982422, success_ratio_40 : 0.994141, success_ratio_60 : 0.998047, time_cost : 0.031001
+==Train==
+A-->B
+EPOCH:: 68, Loss: 0.009957, Angle_Error : 7.485060, T_Error : 0.084823
+==Test==
+A-->B
+Loss: 0.008612, Angle_Error : 7.122384, T_Error : 0.082456
+==Final Test==
+A-->B
+Loss: 0.006259, Angle_Error : 6.209431, T_Error : 0.077384, success_ratio_1 : 0.003906, success_ratio_5 : 0.462891, success_ratio_10 : 0.875000, success_ratio_15 : 0.972656, success_ratio_20 : 0.988281, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031234
+==Train==
+A-->B
+EPOCH:: 69, Loss: 0.006112, Angle_Error : 6.147354, T_Error : 0.079447
+==Test==
+A-->B
+Loss: 0.006259, Angle_Error : 6.209431, T_Error : 0.077384
+==Final Test==
+A-->B
+Loss: 0.007630, Angle_Error : 7.099232, T_Error : 0.080898, success_ratio_1 : 0.003906, success_ratio_5 : 0.353516, success_ratio_10 : 0.843750, success_ratio_15 : 0.945312, success_ratio_20 : 0.978516, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.030753
+==Train==
+A-->B
+EPOCH:: 70, Loss: 0.006380, Angle_Error : 6.147783, T_Error : 0.078538
+==Test==
+A-->B
+Loss: 0.007630, Angle_Error : 7.099232, T_Error : 0.080898
+==Final Test==
+A-->B
+Loss: 0.006283, Angle_Error : 6.263000, T_Error : 0.077013, success_ratio_1 : 0.003906, success_ratio_5 : 0.458984, success_ratio_10 : 0.871094, success_ratio_15 : 0.966797, success_ratio_20 : 0.990234, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030099
+==Train==
+A-->B
+EPOCH:: 71, Loss: 0.005413, Angle_Error : 5.823302, T_Error : 0.076342
+==Test==
+A-->B
+Loss: 0.006283, Angle_Error : 6.263000, T_Error : 0.077013
+==Final Test==
+A-->B
+Loss: 0.006486, Angle_Error : 6.364285, T_Error : 0.078469, success_ratio_1 : 0.013672, success_ratio_5 : 0.412109, success_ratio_10 : 0.869141, success_ratio_15 : 0.966797, success_ratio_20 : 0.990234, success_ratio_40 : 0.998047, success_ratio_60 : 0.998047, time_cost : 0.031113
+==Train==
+A-->B
+EPOCH:: 72, Loss: 0.005056, Angle_Error : 5.564524, T_Error : 0.074862
+==Test==
+A-->B
+Loss: 0.006486, Angle_Error : 6.364285, T_Error : 0.078469
+==Final Test==
+A-->B
+Loss: 0.005994, Angle_Error : 6.104378, T_Error : 0.075947, success_ratio_1 : 0.003906, success_ratio_5 : 0.466797, success_ratio_10 : 0.867188, success_ratio_15 : 0.974609, success_ratio_20 : 0.990234, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031050
+==Train==
+A-->B
+EPOCH:: 73, Loss: 0.005087, Angle_Error : 5.572543, T_Error : 0.074396
+==Test==
+A-->B
+Loss: 0.005994, Angle_Error : 6.104378, T_Error : 0.075947
+==Final Test==
+A-->B
+Loss: 0.011242, Angle_Error : 8.868649, T_Error : 0.092000, success_ratio_1 : 0.001953, success_ratio_5 : 0.220703, success_ratio_10 : 0.712891, success_ratio_15 : 0.906250, success_ratio_20 : 0.958984, success_ratio_40 : 0.992188, success_ratio_60 : 0.996094, time_cost : 0.031094
+==Train==
+A-->B
+EPOCH:: 74, Loss: 0.021130, Angle_Error : 9.905818, T_Error : 0.088870
+==Test==
+A-->B
+Loss: 0.011242, Angle_Error : 8.868649, T_Error : 0.092000
+==Final Test==
+A-->B
+Loss: 0.006756, Angle_Error : 6.530046, T_Error : 0.079416, success_ratio_1 : 0.005859, success_ratio_5 : 0.398438, success_ratio_10 : 0.865234, success_ratio_15 : 0.978516, success_ratio_20 : 0.990234, success_ratio_40 : 0.998047, success_ratio_60 : 0.998047, time_cost : 0.031573
+==Train==
+A-->B
+EPOCH:: 75, Loss: 0.007334, Angle_Error : 6.922480, T_Error : 0.081634
+==Test==
+A-->B
+Loss: 0.006756, Angle_Error : 6.530046, T_Error : 0.079416
+==Final Test==
+A-->B
+Loss: 0.006170, Angle_Error : 6.122945, T_Error : 0.079627, success_ratio_1 : 0.011719, success_ratio_5 : 0.449219, success_ratio_10 : 0.878906, success_ratio_15 : 0.980469, success_ratio_20 : 0.992188, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030284
+==Train==
+A-->B
+EPOCH:: 76, Loss: 0.005347, Angle_Error : 5.748358, T_Error : 0.075165
+==Test==
+A-->B
+Loss: 0.006170, Angle_Error : 6.122945, T_Error : 0.079627
+==Final Test==
+A-->B
+Loss: 0.005724, Angle_Error : 5.923232, T_Error : 0.074301, success_ratio_1 : 0.005859, success_ratio_5 : 0.488281, success_ratio_10 : 0.890625, success_ratio_15 : 0.980469, success_ratio_20 : 0.992188, success_ratio_40 : 0.998047, success_ratio_60 : 0.998047, time_cost : 0.030946
+==Train==
+A-->B
+EPOCH:: 77, Loss: 0.004714, Angle_Error : 5.347403, T_Error : 0.072660
+==Test==
+A-->B
+Loss: 0.005724, Angle_Error : 5.923232, T_Error : 0.074301
+==Final Test==
+A-->B
+Loss: 0.005542, Angle_Error : 5.773674, T_Error : 0.073740, success_ratio_1 : 0.015625, success_ratio_5 : 0.476562, success_ratio_10 : 0.914062, success_ratio_15 : 0.976562, success_ratio_20 : 0.990234, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030565
+==Train==
+A-->B
+EPOCH:: 78, Loss: 0.004534, Angle_Error : 5.239944, T_Error : 0.071511
+==Test==
+A-->B
+Loss: 0.005542, Angle_Error : 5.773674, T_Error : 0.073740
+==Final Test==
+A-->B
+Loss: 0.008133, Angle_Error : 7.341426, T_Error : 0.083488, success_ratio_1 : 0.009766, success_ratio_5 : 0.343750, success_ratio_10 : 0.798828, success_ratio_15 : 0.939453, success_ratio_20 : 0.984375, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.031069
+==Train==
+A-->B
+EPOCH:: 79, Loss: 0.004529, Angle_Error : 5.245999, T_Error : 0.070901
+==Test==
+A-->B
+Loss: 0.008133, Angle_Error : 7.341426, T_Error : 0.083488
+==Final Test==
+A-->B
+Loss: 0.005650, Angle_Error : 5.954263, T_Error : 0.074266, success_ratio_1 : 0.007812, success_ratio_5 : 0.488281, success_ratio_10 : 0.890625, success_ratio_15 : 0.966797, success_ratio_20 : 0.992188, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031063
+==Train==
+A-->B
+EPOCH:: 80, Loss: 0.004268, Angle_Error : 5.042084, T_Error : 0.069187
+==Test==
+A-->B
+Loss: 0.005650, Angle_Error : 5.954263, T_Error : 0.074266
+==Final Test==
+A-->B
+Loss: 0.004924, Angle_Error : 5.322000, T_Error : 0.069784, success_ratio_1 : 0.017578, success_ratio_5 : 0.578125, success_ratio_10 : 0.925781, success_ratio_15 : 0.984375, success_ratio_20 : 0.992188, success_ratio_40 : 0.998047, success_ratio_60 : 0.998047, time_cost : 0.030830
+==Train==
+A-->B
+EPOCH:: 81, Loss: 0.004083, Angle_Error : 4.998948, T_Error : 0.067959
+==Test==
+A-->B
+Loss: 0.004924, Angle_Error : 5.322000, T_Error : 0.069784
+==Final Test==
+A-->B
+Loss: 0.005123, Angle_Error : 5.601909, T_Error : 0.070670, success_ratio_1 : 0.007812, success_ratio_5 : 0.521484, success_ratio_10 : 0.900391, success_ratio_15 : 0.984375, success_ratio_20 : 0.992188, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030561
+==Train==
+A-->B
+EPOCH:: 82, Loss: 0.003997, Angle_Error : 4.944530, T_Error : 0.067614
+==Test==
+A-->B
+Loss: 0.005123, Angle_Error : 5.601909, T_Error : 0.070670
+==Final Test==
+A-->B
+Loss: 0.043831, Angle_Error : 16.254707, T_Error : 0.099840, success_ratio_1 : 0.001953, success_ratio_5 : 0.150391, success_ratio_10 : 0.527344, success_ratio_15 : 0.728516, success_ratio_20 : 0.847656, success_ratio_40 : 0.947266, success_ratio_60 : 0.958984, time_cost : 0.031176
+==Train==
+A-->B
+EPOCH:: 83, Loss: 0.005830, Angle_Error : 5.389235, T_Error : 0.068506
+==Test==
+A-->B
+Loss: 0.043831, Angle_Error : 16.254707, T_Error : 0.099840
+==Final Test==
+A-->B
+Loss: 0.004838, Angle_Error : 5.367355, T_Error : 0.070471, success_ratio_1 : 0.013672, success_ratio_5 : 0.554688, success_ratio_10 : 0.929688, success_ratio_15 : 0.988281, success_ratio_20 : 0.996094, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030202
+==Train==
+A-->B
+EPOCH:: 84, Loss: 0.005078, Angle_Error : 5.459822, T_Error : 0.070956
+==Test==
+A-->B
+Loss: 0.004838, Angle_Error : 5.367355, T_Error : 0.070471
+==Final Test==
+A-->B
+Loss: 0.004794, Angle_Error : 5.318071, T_Error : 0.068638, success_ratio_1 : 0.015625, success_ratio_5 : 0.566406, success_ratio_10 : 0.935547, success_ratio_15 : 0.984375, success_ratio_20 : 0.994141, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030783
+==Train==
+A-->B
+EPOCH:: 85, Loss: 0.004855, Angle_Error : 5.086891, T_Error : 0.067759
+==Test==
+A-->B
+Loss: 0.004794, Angle_Error : 5.318071, T_Error : 0.068638
+==Final Test==
+A-->B
+Loss: 0.004862, Angle_Error : 5.448060, T_Error : 0.069001, success_ratio_1 : 0.007812, success_ratio_5 : 0.533203, success_ratio_10 : 0.937500, success_ratio_15 : 0.986328, success_ratio_20 : 0.996094, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030921
+==Train==
+A-->B
+EPOCH:: 86, Loss: 0.003691, Angle_Error : 4.657547, T_Error : 0.066102
+==Test==
+A-->B
+Loss: 0.004862, Angle_Error : 5.448060, T_Error : 0.069001
+==Final Test==
+A-->B
+Loss: 0.004425, Angle_Error : 5.173549, T_Error : 0.065275, success_ratio_1 : 0.003906, success_ratio_5 : 0.587891, success_ratio_10 : 0.947266, success_ratio_15 : 0.984375, success_ratio_20 : 0.992188, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030974
+==Train==
+A-->B
+EPOCH:: 87, Loss: 0.003570, Angle_Error : 4.580624, T_Error : 0.065560
+==Test==
+A-->B
+Loss: 0.004425, Angle_Error : 5.173549, T_Error : 0.065275
+==Final Test==
+A-->B
+Loss: 0.005524, Angle_Error : 5.893729, T_Error : 0.070473, success_ratio_1 : 0.015625, success_ratio_5 : 0.457031, success_ratio_10 : 0.904297, success_ratio_15 : 0.984375, success_ratio_20 : 0.994141, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.030946
+==Train==
+A-->B
+EPOCH:: 88, Loss: 0.003714, Angle_Error : 4.737290, T_Error : 0.065416
+==Test==
+A-->B
+Loss: 0.005524, Angle_Error : 5.893729, T_Error : 0.070473
+==Final Test==
+A-->B
+Loss: 0.004927, Angle_Error : 5.495538, T_Error : 0.069330, success_ratio_1 : 0.011719, success_ratio_5 : 0.539062, success_ratio_10 : 0.916016, success_ratio_15 : 0.990234, success_ratio_20 : 0.996094, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.031099
+==Train==
+A-->B
+EPOCH:: 89, Loss: 0.003686, Angle_Error : 4.704516, T_Error : 0.065307
+==Test==
+A-->B
+Loss: 0.004927, Angle_Error : 5.495538, T_Error : 0.069330
+==Final Test==
+A-->B
+Loss: 0.006172, Angle_Error : 6.419457, T_Error : 0.068915, success_ratio_1 : 0.009766, success_ratio_5 : 0.435547, success_ratio_10 : 0.849609, success_ratio_15 : 0.968750, success_ratio_20 : 0.988281, success_ratio_40 : 0.996094, success_ratio_60 : 0.998047, time_cost : 0.031109
+==Train==
+A-->B
+EPOCH:: 90, Loss: 0.005333, Angle_Error : 5.399796, T_Error : 0.067894
+==Test==
+A-->B
+Loss: 0.006172, Angle_Error : 6.419457, T_Error : 0.068915
+==Final Test==
+A-->B
+Loss: 0.004667, Angle_Error : 5.436841, T_Error : 0.065599, success_ratio_1 : 0.009766, success_ratio_5 : 0.552734, success_ratio_10 : 0.937500, success_ratio_15 : 0.990234, success_ratio_20 : 0.994141, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031104
+==Train==
+A-->B
+EPOCH:: 91, Loss: 0.004105, Angle_Error : 5.007583, T_Error : 0.066297
+==Test==
+A-->B
+Loss: 0.004667, Angle_Error : 5.436841, T_Error : 0.065599
+==Final Test==
+A-->B
+Loss: 0.004663, Angle_Error : 5.380452, T_Error : 0.065960, success_ratio_1 : 0.007812, success_ratio_5 : 0.568359, success_ratio_10 : 0.937500, success_ratio_15 : 0.992188, success_ratio_20 : 0.994141, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030402
+==Train==
+A-->B
+EPOCH:: 92, Loss: 0.003434, Angle_Error : 4.535859, T_Error : 0.063833
+==Test==
+A-->B
+Loss: 0.004663, Angle_Error : 5.380452, T_Error : 0.065960
+==Final Test==
+A-->B
+Loss: 0.004535, Angle_Error : 5.312980, T_Error : 0.064532, success_ratio_1 : 0.009766, success_ratio_5 : 0.564453, success_ratio_10 : 0.939453, success_ratio_15 : 0.988281, success_ratio_20 : 0.996094, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030933
+==Train==
+A-->B
+EPOCH:: 93, Loss: 0.003408, Angle_Error : 4.521514, T_Error : 0.063250
+==Test==
+A-->B
+Loss: 0.004535, Angle_Error : 5.312980, T_Error : 0.064532
+==Final Test==
+A-->B
+Loss: 0.004761, Angle_Error : 5.407828, T_Error : 0.065807, success_ratio_1 : 0.015625, success_ratio_5 : 0.558594, success_ratio_10 : 0.921875, success_ratio_15 : 0.988281, success_ratio_20 : 0.992188, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.030612
+==Train==
+A-->B
+EPOCH:: 94, Loss: 0.003406, Angle_Error : 4.515765, T_Error : 0.063254
+==Test==
+A-->B
+Loss: 0.004761, Angle_Error : 5.407828, T_Error : 0.065807
+==Final Test==
+A-->B
+Loss: 0.004630, Angle_Error : 5.293856, T_Error : 0.064707, success_ratio_1 : 0.017578, success_ratio_5 : 0.574219, success_ratio_10 : 0.935547, success_ratio_15 : 0.986328, success_ratio_20 : 0.996094, success_ratio_40 : 0.998047, success_ratio_60 : 0.998047, time_cost : 0.030806
+==Train==
+A-->B
+EPOCH:: 95, Loss: 0.003346, Angle_Error : 4.485593, T_Error : 0.062895
+==Test==
+A-->B
+Loss: 0.004630, Angle_Error : 5.293856, T_Error : 0.064707
+==Final Test==
+A-->B
+Loss: 0.004735, Angle_Error : 5.584091, T_Error : 0.065466, success_ratio_1 : 0.011719, success_ratio_5 : 0.523438, success_ratio_10 : 0.917969, success_ratio_15 : 0.986328, success_ratio_20 : 0.994141, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031135
+==Train==
+A-->B
+EPOCH:: 96, Loss: 0.003437, Angle_Error : 4.564953, T_Error : 0.063222
+==Test==
+A-->B
+Loss: 0.004735, Angle_Error : 5.584091, T_Error : 0.065466
+==Final Test==
+A-->B
+Loss: 0.004898, Angle_Error : 5.692544, T_Error : 0.065258, success_ratio_1 : 0.011719, success_ratio_5 : 0.494141, success_ratio_10 : 0.910156, success_ratio_15 : 0.984375, success_ratio_20 : 0.996094, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030792
+==Train==
+A-->B
+EPOCH:: 97, Loss: 0.003423, Angle_Error : nan, T_Error : 0.062506
+==Test==
+A-->B
+Loss: 0.004898, Angle_Error : 5.692544, T_Error : 0.065258
+==Final Test==
+A-->B
+Loss: 0.004064, Angle_Error : 4.899158, T_Error : 0.063019, success_ratio_1 : 0.011719, success_ratio_5 : 0.638672, success_ratio_10 : 0.953125, success_ratio_15 : 0.990234, success_ratio_20 : 0.994141, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030944
+==Train==
+A-->B
+EPOCH:: 98, Loss: 0.003539, Angle_Error : 4.639680, T_Error : 0.062956
+==Test==
+A-->B
+Loss: 0.004064, Angle_Error : 4.899158, T_Error : 0.063019
+==Final Test==
+A-->B
+Loss: 0.004008, Angle_Error : 5.129743, T_Error : 0.062794, success_ratio_1 : 0.011719, success_ratio_5 : 0.591797, success_ratio_10 : 0.937500, success_ratio_15 : 0.990234, success_ratio_20 : 0.994141, success_ratio_40 : 1.000000, success_ratio_60 : 1.000000, time_cost : 0.030342
+==Train==
+A-->B
+EPOCH:: 99, Loss: 0.003318, Angle_Error : 4.449007, T_Error : 0.061866
+==Test==
+A-->B
+Loss: 0.004008, Angle_Error : 5.129743, T_Error : 0.062794
+==Final Test==
+A-->B
+Loss: 0.003702, Angle_Error : 4.765324, T_Error : 0.061520, success_ratio_1 : 0.007812, success_ratio_5 : 0.654297, success_ratio_10 : 0.960938, success_ratio_15 : 0.994141, success_ratio_20 : 0.996094, success_ratio_40 : 1.000000, success_ratio_60 : 1.000000, time_cost : 0.030881
+==Train==
+A-->B
+EPOCH:: 100, Loss: 0.003177, Angle_Error : 4.365620, T_Error : 0.060882
+==Test==
+A-->B
+Loss: 0.003702, Angle_Error : 4.765324, T_Error : 0.061520
+==Final Test==
+A-->B
+Loss: 0.003814, Angle_Error : 4.809165, T_Error : 0.060526, success_ratio_1 : 0.009766, success_ratio_5 : 0.642578, success_ratio_10 : 0.964844, success_ratio_15 : 0.992188, success_ratio_20 : 0.992188, success_ratio_40 : 1.000000, success_ratio_60 : 1.000000, time_cost : 0.031282
+==Train==
+A-->B
+EPOCH:: 101, Loss: 0.003273, Angle_Error : 4.449092, T_Error : 0.060808
+==Test==
+A-->B
+Loss: 0.003814, Angle_Error : 4.809165, T_Error : 0.060526
+==Final Test==
+A-->B
+Loss: 0.003805, Angle_Error : 4.811750, T_Error : 0.062049, success_ratio_1 : 0.021484, success_ratio_5 : 0.632812, success_ratio_10 : 0.960938, success_ratio_15 : 0.992188, success_ratio_20 : 0.994141, success_ratio_40 : 1.000000, success_ratio_60 : 1.000000, time_cost : 0.031093
+==Train==
+A-->B
+EPOCH:: 102, Loss: 0.005173, Angle_Error : 5.087501, T_Error : 0.065950
+==Test==
+A-->B
+Loss: 0.003805, Angle_Error : 4.811750, T_Error : 0.062049
+==Final Test==
+A-->B
+Loss: 0.003945, Angle_Error : 4.883893, T_Error : 0.063029, success_ratio_1 : 0.019531, success_ratio_5 : 0.617188, success_ratio_10 : 0.953125, success_ratio_15 : 0.994141, success_ratio_20 : 0.996094, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031353
+==Train==
+A-->B
+EPOCH:: 103, Loss: 0.004133, Angle_Error : 4.697908, T_Error : 0.062299
+==Test==
+A-->B
+Loss: 0.003945, Angle_Error : 4.883893, T_Error : 0.063029
+==Final Test==
+A-->B
+Loss: 0.004292, Angle_Error : 5.223020, T_Error : 0.063785, success_ratio_1 : 0.015625, success_ratio_5 : 0.566406, success_ratio_10 : 0.947266, success_ratio_15 : 0.994141, success_ratio_20 : 0.996094, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030870
+==Train==
+A-->B
+EPOCH:: 104, Loss: 0.003003, Angle_Error : 4.173283, T_Error : 0.059835
+==Test==
+A-->B
+Loss: 0.004292, Angle_Error : 5.223020, T_Error : 0.063785
+==Final Test==
+A-->B
+Loss: 0.003349, Angle_Error : 4.581879, T_Error : 0.058624, success_ratio_1 : 0.023438, success_ratio_5 : 0.671875, success_ratio_10 : 0.970703, success_ratio_15 : 0.992188, success_ratio_20 : 0.996094, success_ratio_40 : 1.000000, success_ratio_60 : 1.000000, time_cost : 0.030500
+==Train==
+A-->B
+EPOCH:: 105, Loss: 0.002900, Angle_Error : 4.126478, T_Error : 0.058978
+==Test==
+A-->B
+Loss: 0.003349, Angle_Error : 4.581879, T_Error : 0.058624
+==Final Test==
+A-->B
+Loss: 0.003902, Angle_Error : 4.939268, T_Error : 0.059118, success_ratio_1 : 0.011719, success_ratio_5 : 0.617188, success_ratio_10 : 0.947266, success_ratio_15 : 0.990234, success_ratio_20 : 0.996094, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031008
+==Train==
+A-->B
+EPOCH:: 106, Loss: 0.002903, Angle_Error : 4.134198, T_Error : 0.059003
+==Test==
+A-->B
+Loss: 0.003902, Angle_Error : 4.939268, T_Error : 0.059118
+==Final Test==
+A-->B
+Loss: 0.004239, Angle_Error : 5.350525, T_Error : 0.060606, success_ratio_1 : 0.013672, success_ratio_5 : 0.550781, success_ratio_10 : 0.953125, success_ratio_15 : 0.990234, success_ratio_20 : 0.990234, success_ratio_40 : 1.000000, success_ratio_60 : 1.000000, time_cost : 0.030407
+==Train==
+A-->B
+EPOCH:: 107, Loss: 0.003039, Angle_Error : 4.317910, T_Error : 0.058783
+==Test==
+A-->B
+Loss: 0.004239, Angle_Error : 5.350525, T_Error : 0.060606
+==Final Test==
+A-->B
+Loss: 0.004396, Angle_Error : 5.376855, T_Error : 0.062563, success_ratio_1 : 0.013672, success_ratio_5 : 0.535156, success_ratio_10 : 0.935547, success_ratio_15 : 0.992188, success_ratio_20 : 0.996094, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031148
+==Train==
+A-->B
+EPOCH:: 108, Loss: 0.003065, Angle_Error : 4.278544, T_Error : 0.059293
+==Test==
+A-->B
+Loss: 0.004396, Angle_Error : 5.376855, T_Error : 0.062563
+==Final Test==
+A-->B
+Loss: 0.005000, Angle_Error : 5.802582, T_Error : 0.064007, success_ratio_1 : 0.007812, success_ratio_5 : 0.500000, success_ratio_10 : 0.890625, success_ratio_15 : 0.980469, success_ratio_20 : 0.996094, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.030738
+==Train==
+A-->B
+EPOCH:: 109, Loss: 0.003043, Angle_Error : 4.307095, T_Error : 0.058707
+==Test==
+A-->B
+Loss: 0.005000, Angle_Error : 5.802582, T_Error : 0.064007
+==Final Test==
+A-->B
+Loss: 0.006809, Angle_Error : 7.156668, T_Error : 0.068668, success_ratio_1 : 0.001953, success_ratio_5 : 0.365234, success_ratio_10 : 0.808594, success_ratio_15 : 0.957031, success_ratio_20 : 0.986328, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.030806
+==Train==
+A-->B
+EPOCH:: 110, Loss: 0.010730, Angle_Error : 7.226486, T_Error : 0.071458
+==Test==
+A-->B
+Loss: 0.006809, Angle_Error : 7.156668, T_Error : 0.068668
+==Final Test==
+A-->B
+Loss: 0.004064, Angle_Error : 5.077565, T_Error : 0.062366, success_ratio_1 : 0.013672, success_ratio_5 : 0.574219, success_ratio_10 : 0.945312, success_ratio_15 : 0.990234, success_ratio_20 : 0.994141, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031010
+==Train==
+A-->B
+EPOCH:: 111, Loss: 0.003971, Angle_Error : 4.998906, T_Error : 0.063986
+==Test==
+A-->B
+Loss: 0.004064, Angle_Error : 5.077565, T_Error : 0.062366
+==Final Test==
+A-->B
+Loss: 0.003877, Angle_Error : 4.932912, T_Error : 0.061422, success_ratio_1 : 0.009766, success_ratio_5 : 0.595703, success_ratio_10 : 0.955078, success_ratio_15 : 0.992188, success_ratio_20 : 0.994141, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030874
+==Train==
+A-->B
+EPOCH:: 112, Loss: 0.003020, Angle_Error : 4.266720, T_Error : 0.059386
+==Test==
+A-->B
+Loss: 0.003877, Angle_Error : 4.932912, T_Error : 0.061422
+==Final Test==
+A-->B
+Loss: 0.004055, Angle_Error : 5.162497, T_Error : 0.062771, success_ratio_1 : 0.009766, success_ratio_5 : 0.541016, success_ratio_10 : 0.951172, success_ratio_15 : 0.992188, success_ratio_20 : 0.994141, success_ratio_40 : 1.000000, success_ratio_60 : 1.000000, time_cost : 0.030779
+==Train==
+A-->B
+EPOCH:: 113, Loss: 0.002793, Angle_Error : 4.059618, T_Error : 0.057817
+==Test==
+A-->B
+Loss: 0.004055, Angle_Error : 5.162497, T_Error : 0.062771
+==Final Test==
+A-->B
+Loss: 0.003890, Angle_Error : 4.953609, T_Error : 0.058250, success_ratio_1 : 0.009766, success_ratio_5 : 0.611328, success_ratio_10 : 0.957031, success_ratio_15 : 0.990234, success_ratio_20 : 0.994141, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.030809
+==Train==
+A-->B
+EPOCH:: 114, Loss: 0.002727, Angle_Error : 4.014301, T_Error : 0.056917
+==Test==
+A-->B
+Loss: 0.003890, Angle_Error : 4.953609, T_Error : 0.058250
+==Final Test==
+A-->B
+Loss: 0.003940, Angle_Error : 5.052170, T_Error : 0.060881, success_ratio_1 : 0.017578, success_ratio_5 : 0.580078, success_ratio_10 : 0.958984, success_ratio_15 : 0.986328, success_ratio_20 : 0.996094, success_ratio_40 : 1.000000, success_ratio_60 : 1.000000, time_cost : 0.030561
+==Train==
+A-->B
+EPOCH:: 115, Loss: 0.002711, Angle_Error : 4.034313, T_Error : 0.056723
+==Test==
+A-->B
+Loss: 0.003940, Angle_Error : 5.052170, T_Error : 0.060881
+==Final Test==
+A-->B
+Loss: 0.003850, Angle_Error : 5.074615, T_Error : 0.059399, success_ratio_1 : 0.021484, success_ratio_5 : 0.576172, success_ratio_10 : 0.943359, success_ratio_15 : 0.992188, success_ratio_20 : 0.996094, success_ratio_40 : 1.000000, success_ratio_60 : 1.000000, time_cost : 0.030591
+==Train==
+A-->B
+EPOCH:: 116, Loss: 0.002769, Angle_Error : 4.100832, T_Error : 0.056577
+==Test==
+A-->B
+Loss: 0.003850, Angle_Error : 5.074615, T_Error : 0.059399
+==Final Test==
+A-->B
+Loss: 0.003668, Angle_Error : 4.837014, T_Error : 0.059691, success_ratio_1 : 0.011719, success_ratio_5 : 0.589844, success_ratio_10 : 0.972656, success_ratio_15 : 0.992188, success_ratio_20 : 0.996094, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.030833
+==Train==
+A-->B
+EPOCH:: 117, Loss: 0.002778, Angle_Error : 4.120392, T_Error : 0.056833
+==Test==
+A-->B
+Loss: 0.003668, Angle_Error : 4.837014, T_Error : 0.059691
+==Final Test==
+A-->B
+Loss: 0.004215, Angle_Error : 5.126800, T_Error : 0.059975, success_ratio_1 : 0.011719, success_ratio_5 : 0.582031, success_ratio_10 : 0.939453, success_ratio_15 : 0.992188, success_ratio_20 : 0.994141, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031011
+==Train==
+A-->B
+EPOCH:: 118, Loss: 0.003381, Angle_Error : 4.530525, T_Error : 0.059173
+==Test==
+A-->B
+Loss: 0.004215, Angle_Error : 5.126800, T_Error : 0.059975
+==Final Test==
+A-->B
+Loss: 0.003890, Angle_Error : 4.915104, T_Error : 0.060593, success_ratio_1 : 0.011719, success_ratio_5 : 0.611328, success_ratio_10 : 0.966797, success_ratio_15 : 0.990234, success_ratio_20 : 0.996094, success_ratio_40 : 0.996094, success_ratio_60 : 1.000000, time_cost : 0.030930
+==Train==
+A-->B
+EPOCH:: 119, Loss: 0.002824, Angle_Error : 4.142191, T_Error : 0.056649
+==Test==
+A-->B
+Loss: 0.003890, Angle_Error : 4.915104, T_Error : 0.060593
+==Final Test==
+A-->B
+Loss: 0.003795, Angle_Error : 5.062660, T_Error : 0.059796, success_ratio_1 : 0.017578, success_ratio_5 : 0.556641, success_ratio_10 : 0.953125, success_ratio_15 : 0.998047, success_ratio_20 : 0.998047, success_ratio_40 : 0.998047, success_ratio_60 : 1.000000, time_cost : 0.031231
+==Train==
+A-->B
+EPOCH:: 120, Loss: 0.002738, Angle_Error : 4.096443, T_Error : 0.055959
+==Test==
+A-->B
+Loss: 0.003795, Angle_Error : 5.062660, T_Error : 0.059796
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=2, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=False, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.005746, Angle_Error : 4.892178, T_Error : 0.062087, success_ratio_1 : 0.018555, success_ratio_5 : 0.689941, success_ratio_10 : 0.957520, success_ratio_15 : 0.985107, success_ratio_20 : 0.990234, success_ratio_40 : 0.996582, success_ratio_60 : 0.997314, time_cost : 0.028972
+Namespace(batch_size=2, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=2, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=2, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.009916, Angle_Error : 8.881084, T_Error : 0.035139, success_ratio_1 : 0.002441, success_ratio_5 : 0.264893, success_ratio_10 : 0.721191, success_ratio_15 : 0.900391, success_ratio_20 : 0.960205, success_ratio_40 : 0.990967, success_ratio_60 : 0.995850, time_cost : 0.033751
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.011511, Angle_Error : 5.490031, T_Error : 0.123789, success_ratio_1 : 0.021484, success_ratio_5 : 0.639404, success_ratio_10 : 0.923828, success_ratio_15 : 0.977051, success_ratio_20 : 0.990479, success_ratio_40 : 0.994385, success_ratio_60 : 0.995117, time_cost : 0.034188
+Namespace(batch_size=1, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, fgr=False, heads=4, icp=True, iteration=1, lr=0.0001, model_path='', n=1, num_points_src=1024, num_points_target=512, test=True)
+==Final Test==
+A-->B
+Loss: 0.007277, Angle_Error : 1.929752, T_Error : 0.109253, success_ratio_1 : 0.278564, success_ratio_5 : 0.995850, success_ratio_10 : 0.996338, success_ratio_15 : 0.996582, success_ratio_20 : 0.996582, success_ratio_40 : 0.996826, success_ratio_60 : 0.996826, time_cost : 0.034951
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=False, lr=0.0001, model_path='', n=1, num_points_src=1024, test=True)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=False, lr=0.0001, model_path='', n=1, num_points_src=1024, test=True)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=False, lr=0.0001, model_path='', n=1, num_points_src=1024, test=True)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=False, lr=0.0001, model_path='', n=1, num_points_src=1024, test=True)
+Namespace(batch_size=4, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=False, lr=0.0001, model_path='', n=1, num_points_src=1024, test=True)
+Namespace(batch_size=2, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=False, lr=0.0001, model_path='', n=1, num_points_src=1024, test=True)
+==Final Test==
+A-->B
+Loss: 0.041270, Angle_Error : 5.301184, T_Error : 0.065104, success_ratio_1 : 0.015625, success_ratio_5 : 0.631836, success_ratio_10 : 0.945068, success_ratio_15 : 0.982422, success_ratio_20 : 0.990723, success_ratio_40 : 0.995850, success_ratio_60 : 0.997070, time_cost : 0.031154
+Namespace(batch_size=2, dropout=0.1, emb_dims=64, epochs=121, ff_dims=256, heads=4, icp=False, lr=0.0001, model_path='', n=1, num_points_src=1024, test=True)
+==Final Test==
+A-->B
+Loss: 0.006347, Angle_Error : 5.286595, T_Error : 0.066588, success_ratio_1 : 0.017578, success_ratio_5 : 0.625732, success_ratio_10 : 0.948242, success_ratio_15 : 0.984131, success_ratio_20 : 0.990723, success_ratio_40 : 0.995850, success_ratio_60 : 0.996826, time_cost : 0.031961
