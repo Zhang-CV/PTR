@@ -17,8 +17,8 @@ python main.py
 
 ## Testing
 python main.py --test  
-Refined by ICP with batch size = 1：    
-python main.py --test --icp  
+if you want to refine the results by ICP, then batch size should be set as 1:   
+python main.py --test --icp  --batch_size 1
 
 ## Citation
 Please cite this paper if you want to use it in your work,  
